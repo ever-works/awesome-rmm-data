@@ -1,0 +1,13 @@
+name: "GLPI"
+description: "Open-source IT asset management and helpdesk system. Used by MSPs and IT teams for ticketing, inventory, and asset tracking. Licensed under GPLv3."
+source_url: "https://glpi-project.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "psa"
+  - "itam"
+  - "helpdesk"
+icon_url: "https://icons.duckduckgo.com/ip3/glpi-project.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://glpi-project.org/>\n- Repository: <https://github.com/glpi-project/glpi>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 01:30"

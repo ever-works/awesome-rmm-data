@@ -1,0 +1,12 @@
+name: "Tactical RMM"
+description: "Open-source remote monitoring and management platform for MSPs. Self-hosted with PowerShell-based agents and a web dashboard. Licensed under AGPLv3."
+source_url: "https://tacticalrmm.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "rmm"
+  - "powershell"
+icon_url: "https://icons.duckduckgo.com/ip3/tacticalrmm.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://tacticalrmm.com/>\n- Repository: <https://github.com/TacticalRMM/TacticalRMM>\n\nLicense: AGPLv3.\n"
+updated_at: "2026-11-21 01:30"

@@ -1,0 +1,12 @@
+name: "Pulseway"
+description: "RMM and mobile-first IT management platform for MSPs and IT teams. Provides real-time monitoring, patch management, and remote control via mobile and desktop. Paid subscription service."
+source_url: "https://www.pulseway.com/"
+category: "RMM Platforms"
+tags:
+  - "paid"
+  - "api"
+  - "rmm"
+  - "mobile"
+icon_url: "https://icons.duckduckgo.com/ip3/www.pulseway.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.pulseway.com/>\n"
+updated_at: "2026-11-21 01:30"

@@ -1,0 +1,12 @@
+name: "RustDesk"
+description: "Open-source remote desktop application for remote access and support. Self-hostable relay server option available. Licensed under GPLv3."
+source_url: "https://rustdesk.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "remote-access"
+  - "cross-platform"
+icon_url: "https://icons.duckduckgo.com/ip3/rustdesk.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://rustdesk.com/>\n- Repository: <https://github.com/rustdesk/rustdesk>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 01:30"

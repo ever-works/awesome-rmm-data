@@ -1,0 +1,12 @@
+name: "GoTo Resolve"
+description: "Remote access and support software with IT management features. Includes unattended remote access, ticketing, and device management. Offers a free plan and paid tiers."
+source_url: "https://www.goto.com/resolve"
+category: "Remote Access"
+tags:
+  - "freemium"
+  - "remote-access"
+  - "api"
+  - "support"
+icon_url: "https://icons.duckduckgo.com/ip3/www.goto.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.goto.com/resolve>\n"
+updated_at: "2026-11-21 01:30"

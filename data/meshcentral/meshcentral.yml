@@ -1,0 +1,12 @@
+name: "MeshCentral"
+description: "Open-source remote management and remote access platform. Self-hosted web-based solution for device control, terminal access, and file transfer. Licensed under Apache 2.0."
+source_url: "https://meshcentral.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "remote-access"
+  - "web"
+icon_url: "https://icons.duckduckgo.com/ip3/meshcentral.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://meshcentral.com/>\n- Repository: <https://github.com/Ylianst/MeshCentral>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:30"

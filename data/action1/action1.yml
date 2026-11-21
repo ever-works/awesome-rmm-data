@@ -1,0 +1,12 @@
+name: "Action1"
+description: "Cloud-native RMM platform for patch management and remote endpoint control. Offers a free tier for up to a limited number of endpoints, with paid plans for larger deployments."
+source_url: "https://www.action1.com/"
+category: "RMM Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "rmm"
+  - "patch-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.action1.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.action1.com/>\n"
+updated_at: "2026-11-21 01:30"

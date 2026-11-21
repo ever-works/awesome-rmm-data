@@ -1,0 +1,12 @@
+name: "Splashtop Enterprise"
+description: "Remote access and remote support solution for MSPs and IT teams. Provides high-performance remote desktop, unattended access, and centralized management. Paid commercial product."
+source_url: "https://www.splashtop.com/enterprise"
+category: "Remote Access"
+tags:
+  - "paid"
+  - "remote-access"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.splashtop.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.splashtop.com/enterprise>\n"
+updated_at: "2026-11-21 01:30"

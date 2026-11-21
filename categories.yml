@@ -1,0 +1,12 @@
+- id: rmm-platforms
+  name: "RMM Platforms"
+- id: psa-professional-services-automation
+  name: "PSA (Professional Services Automation)"
+- id: remote-access
+  name: "Remote Access"
+- id: backup-for-msps
+  name: "Backup for MSPs"
+- id: security-for-msps
+  name: "Security for MSPs"
+- id: open-source
+  name: "Open Source"

@@ -1,0 +1,13 @@
+name: "Atera"
+description: "All-in-one RMM and PSA platform for MSPs, priced per technician rather than per endpoint. Includes remote access, patch management, and billing features. Cloud-based with paid subscription plans."
+source_url: "https://www.atera.com/"
+category: "RMM Platforms"
+tags:
+  - "paid"
+  - "api"
+  - "rmm"
+  - "psa"
+  - "per-technician"
+icon_url: "https://icons.duckduckgo.com/ip3/www.atera.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.atera.com/>\n"
+updated_at: "2026-11-21 01:30"
