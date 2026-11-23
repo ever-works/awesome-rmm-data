@@ -1,50 +1,480 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: Api
 - id: rmm
-  name: "RMM"
+  name: Rmm
 - id: endpoint-management
-  name: "Endpoint Management"
+  name: Endpoint Management
 - id: psa
-  name: "PSA"
+  name: Psa
 - id: per-technician
-  name: "Per Technician"
+  name: Per Technician
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: remote-access
-  name: "Remote Access"
+  name: Remote Access
 - id: ai-powered
-  name: "AI-Powered"
+  name: Ai Powered
 - id: mobile
-  name: "Mobile"
+  name: Mobile
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: patch-management
-  name: "Patch Management"
+  name: Patch Management
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: support
-  name: "Support"
+  name: Support
 - id: security
-  name: "Security"
+  name: Security
 - id: edr
-  name: "EDR"
+  name: EDR
 - id: msp
-  name: "MSP"
+  name: Msp
 - id: endpoint-protection
-  name: "Endpoint Protection"
+  name: Endpoint Protection
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: powershell
-  name: "PowerShell"
+  name: PowerShell
 - id: web
-  name: "Web"
+  name: Web
 - id: cross-platform
-  name: "Cross-Platform"
+  name: Cross Platform
 - id: itam
-  name: "ITAM"
+  name: ITAM
 - id: helpdesk
-  name: "Helpdesk"
+  name: Helpdesk
+- id: backup
+  name: Backup
+- id: disaster-recovery
+  name: Disaster Recovery
+- id: project-management
+  name: Project Management
+- id: scrum
+  name: Scrum
+- id: free-plan
+  name: Free Plan
+- id: agile
+  name: Agile
+- id: kanban
+  name: Kanban
+- id: mcp
+  name: MCP
+- id: payments
+  name: Payments
+- id: billing
+  name: Billing
+- id: quickbooks
+  name: Quickbooks
+- id: file-transfer
+  name: File Transfer
+- id: built-in-encryption
+  name: Built In Encryption
+- id: remote-support
+  name: Remote Support
+- id: remote-management
+  name: Remote Management
+- id: macos
+  name: MacOS
+- id: architecture-diagrams
+  name: Architecture Diagrams
+- id: image-based
+  name: Image Based
+- id: task-management
+  name: Task Management
+- id: ticketing
+  name: Ticketing
+- id: itil
+  name: Itil
+- id: object-storage
+  name: Object Storage
+- id: release-management
+  name: Release Management
+- id: microsoft-365
+  name: Microsoft 365
+- id: offsite-replication
+  name: Offsite Replication
+- id: email-security
+  name: Email Security
+- id: spam-protection
+  name: Spam Protection
+- id: phishing-protection
+  name: Phishing Protection
+- id: time-tracking
+  name: Time Tracking
+- id: file-sharing
+  name: File Sharing
+- id: invoicing
+  name: Invoicing
+- id: autopay
+  name: Autopay
+- id: session-auditing
+  name: Session Auditing
+- id: ssh
+  name: Ssh
+- id: intranet
+  name: Intranet
+- id: crm
+  name: Crm
+- id: diagrams
+  name: Diagrams
+- id: flowchart
+  name: Flowchart
+- id: uml
+  name: Uml
+- id: network-diagrams
+  name: Network Diagrams
+- id: google-workspace
+  name: Google Workspace
+- id: api-based
+  name: Api Based
+- id: dns-filtering
+  name: Dns Filtering
+- id: web-security
+  name: Web Security
+- id: productivity
+  name: Productivity
+- id: git-integration
+  name: Git Integration
+- id: timesheet
+  name: Timesheet
+- id: unlimited-users
+  name: Unlimited Users
+- id: aws
+  name: Aws
+- id: reverse-proxy
+  name: Reverse Proxy
+- id: dynamic
+  name: Dynamic
+- id: knowledge-base
+  name: Knowledge Base
+- id: collaboration
+  name: Collaboration
+- id: documentation
+  name: Documentation
+- id: remote-control
+  name: Remote Control
+- id: visual-studio
+  name: Visual Studio
+- id: iis-express
+  name: IIS Express
+- id: tunneling
+  name: Tunneling
+- id: rdp
+  name: RDP
+- id: client
+  name: Client
+- id: bcdr
+  name: Bcdr
+- id: appliance
+  name: Appliance
+- id: ransomware-detection
+  name: Ransomware Detection
+- id: client-portal
+  name: Client Portal
+- id: free
+  name: Free
+- id: content-filtering
+  name: Content Filtering
+- id: cloud-to-cloud
+  name: Cloud To Cloud
+- id: dmarc
+  name: Dmarc
+- id: spf
+  name: Spf
+- id: dkim
+  name: Dkim
+- id: retrospective
+  name: Retrospective
+- id: mdm
+  name: MDM
+- id: android
+  name: Android
+- id: localhost
+  name: Localhost
+- id: secure-tunnel
+  name: Secure Tunnel
+- id: s3-compatible
+  name: S3 Compatible
+- id: wireguard
+  name: Wireguard
+- id: vpn
+  name: Vpn
+- id: receivables
+  name: Receivables
+- id: client-financing
+  name: Client Financing
+- id: iot
+  name: Iot
+- id: browser-based
+  name: Browser Based
+- id: issue-tracking
+  name: Issue Tracking
+- id: saas
+  name: Saas
+- id: developers
+  name: Developers
+- id: graphql
+  name: Graphql
+- id: schema
+  name: Schema
+- id: vnc
+  name: Vnc
+- id: lan
+  name: LAN
+- id: customer-support
+  name: Customer Support
+- id: live-chat
+  name: Live Chat
+- id: docker
+  name: Docker
+- id: automation
+  name: Automation
+- id: webhook
+  name: Webhook
+- id: monitoring
+  name: Monitoring
+- id: vm-backup
+  name: Vm Backup
+- id: hyper-v
+  name: Hyper V
+- id: vmware
+  name: Vmware
+- id: workstation
+  name: Workstation
+- id: graphics
+  name: Graphics
+- id: infrastructure-diagrams
+  name: Infrastructure Diagrams
+- id: interactive-diagrams
+  name: Interactive Diagrams
+- id: code-as-diagrams
+  name: Code As Diagrams
+- id: behavioral-analysis
+  name: Behavioral Analysis
+- id: client-experience
+  name: Client Experience
+- id: vcio
+  name: Vcio
+- id: warranty-tracking
+  name: Warranty Tracking
+- id: apple
+  name: Apple
+- id: board-based
+  name: Board Based
+- id: business-management
+  name: Business Management
+- id: quoting
+  name: Quoting
+- id: proposal
+  name: Proposal
+- id: product-development
+  name: Product Development
+- id: slack-integration
+  name: Slack Integration
+- id: discord-integration
+  name: Discord Integration
+- id: figma-integration
+  name: Figma Integration
+- id: github-integration
+  name: Github Integration
+- id: job-search
+  name: Job Search
+- id: interview-tracking
+  name: Interview Tracking
+- id: relationship-maps
+  name: Relationship Maps
+- id: network-visualization
+  name: Network Visualization
+- id: multi-protocol
+  name: Multi Protocol
+- id: multi-platform
+  name: Multi Platform
+- id: it-support
+  name: IT Support
+- id: multi-tenancy
+  name: Multi Tenancy
+- id: network-monitoring
+  name: Network Monitoring
+- id: server-monitoring
+  name: Server Monitoring
+- id: configuration-management
+  name: Configuration Management
+- id: team-collaboration
+  name: Team Collaboration
+- id: multi-tenant
+  name: Multi Tenant
+- id: screen-sharing
+  name: Screen Sharing
+- id: web-conferencing
+  name: Web Conferencing
+- id: archiving
+  name: Archiving
+- id: continuity
+  name: Continuity
+- id: device-management
+  name: Device Management
+- id: work-os
+  name: Work OS
+- id: spec-driven-development
+  name: Spec Driven Development
+- id: architect-tool
+  name: Architect Tool
+- id: online-meetings
+  name: Online Meetings
+- id: gps
+  name: Gps
+- id: low-latency
+  name: Low Latency
+- id: gaming
+  name: Gaming
+- id: no-download
+  name: No Download
+- id: product-management
+  name: Product Management
+- id: planning-poker
+  name: Planning Poker
+- id: estimation
+  name: Estimation
+- id: server-management
+  name: Server Management
+- id: deployment
+  name: Deployment
+- id: free-tier
+  name: Free Tier
+- id: no-registration
+  name: No Registration
+- id: secure-web-gateway
+  name: Secure Web Gateway
+- id: web-os
+  name: Web Os
+- id: nodejs
+  name: Nodejs
+- id: vdi
+  name: VDI
+- id: linux
+  name: Linux
+- id: hamachi-alternative
+  name: Hamachi Alternative
+- id: remote-printing
+  name: Remote Printing
+- id: on-demand
+  name: On Demand
+- id: php
+  name: Php
+- id: no-signup
+  name: No Signup
+- id: outsourcing
+  name: Outsourcing
+- id: bug-reporting
+  name: Bug Reporting
+- id: feedback
+  name: Feedback
+- id: mobile-apps
+  name: Mobile Apps
+- id: mysql
+  name: MySQL
+- id: database-restore
+  name: Database Restore
+- id: cloud-backup
+  name: Cloud Backup
+- id: database-backup
+  name: Database Backup
+- id: uptime
+  name: Uptime
+- id: real-user-monitoring
+  name: Real User Monitoring
+- id: s3
+  name: S3
+- id: telnet
+  name: Telnet
+- id: 4k-streaming
+  name: 4K Streaming
+- id: startups
+  name: Startups
+- id: team-chat
+  name: Team Chat
+- id: web-based
+  name: Web Based
+- id: chat-integration
+  name: Chat Integration
+- id: slack
+  name: Slack
+- id: teams
+  name: Teams
+- id: remote-desktop
+  name: Remote Desktop
+- id: scheduling
+  name: Scheduling
+- id: appointment
+  name: Appointment
+- id: psa-integration
+  name: Psa Integration
+- id: jira-integration
+  name: Jira Integration
+- id: monday-com-integration
+  name: Monday Com Integration
+- id: todo-list
+  name: Todo List
+- id: task-planning
+  name: Task Planning
+- id: boards
+  name: Boards
+- id: endpoint-security
+  name: Endpoint Security
+- id: 3d-graphics
+  name: 3D Graphics
+- id: virtualgl
+  name: VirtualGL
+- id: calendar
+  name: Calendar
+- id: windows
+  name: Windows
+- id: customer-feedback
+  name: Customer Feedback
+- id: roadmap
+  name: Roadmap
+- id: changelog
+  name: Changelog
+- id: replication
+  name: Replication
+- id: vm-recovery
+  name: Vm Recovery
+- id: server-backup
+  name: Server Backup
+- id: snapshots
+  name: Snapshots
+- id: bastion
+  name: Bastion
+- id: pam
+  name: Pam
+- id: rust
+  name: Rust
+- id: proxy
+  name: Proxy
+- id: product-design
+  name: Product Design
+- id: version-control
+  name: Version Control
+- id: issues
+  name: Issues
+- id: x11
+  name: X11
+- id: nx-technology
+  name: NX Technology
+- id: persistent-sessions
+  name: Persistent Sessions
+- id: application-forwarding
+  name: Application Forwarding
+- id: rdp-server
+  name: RDP Server
+- id: github
+  name: Github
+- id: oss
+  name: OSS
+- id: virtual-ethernet
+  name: Virtual Ethernet

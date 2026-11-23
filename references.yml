@@ -1,14 +1,56 @@
-- url: "https://www.softwaresuggest.com/remote-monitoring-management-software"
-  title: "SoftwareSuggest — Remote Monitoring And Management Software"
-- url: "https://www.softwaresuggest.com/msp-software"
-  title: "SoftwareSuggest — Msp Software"
-- url: "https://raw.githubusercontent.com/guardzcom/awesome-msp/HEAD/README.md"
-  title: "GitHub list — guardzcom/awesome-msp (159★)"
-- url: "https://awesome-selfhosted.net/tags/remote-access.html"
-  title: "awesome-selfhosted — Remote Access"
-- url: "https://github.com/ripienaar/free-for-dev#remote-desktop-tools"
-  title: "free-for-dev — section “Remote Desktop Tools”"
-- url: "https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software"
-  title: "Wikipedia — Comparison of remote desktop software"
-- url: "https://github.com/topics/rmm"
-  title: "GitHub topic — `rmm` (215 repos)"
+- url: https://awesome-selfhosted.net/tags/remote-access.html
+  normalized_url: https://awesome-selfhosted.net/tags/remote-access.html
+  first_seen_at: 2026-11-23T02:12:16.049Z
+  last_attempted_at: 2026-11-23T02:12:16.049Z
+  last_success_at: 2026-11-23T02:12:16.049Z
+  status: success
+  items_created: 13
+  pipeline: agent-pipeline
+- url: https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software
+  normalized_url: https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software
+  first_seen_at: 2026-11-23T02:34:43.768Z
+  last_attempted_at: 2026-11-23T02:34:43.768Z
+  last_success_at: 2026-11-23T02:34:43.768Z
+  status: success
+  items_created: 17
+  pipeline: agent-pipeline
+- url: https://github.com/ripienaar/free-for-dev#remote-desktop-tools
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-23T02:32:42.108Z
+  last_attempted_at: 2026-11-23T02:32:42.108Z
+  last_success_at: 2026-11-23T02:32:42.108Z
+  status: success
+  items_created: 101
+  pipeline: agent-pipeline
+- url: https://github.com/topics/rmm
+  normalized_url: https://github.com/topics/rmm
+  first_seen_at: 2026-11-23T02:36:30.725Z
+  last_attempted_at: 2026-11-23T02:36:30.725Z
+  last_success_at: 2026-11-23T02:36:30.725Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/guardzcom/awesome-msp/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/guardzcom/awesome-msp/HEAD/README.md
+  first_seen_at: 2026-11-23T02:10:40.647Z
+  last_attempted_at: 2026-11-23T02:10:40.647Z
+  last_success_at: 2026-11-23T02:10:40.647Z
+  status: success
+  items_created: 47
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/msp-software
+  normalized_url: https://www.softwaresuggest.com/msp-software
+  first_seen_at: 2026-11-23T02:37:50.850Z
+  last_attempted_at: 2026-11-23T02:37:50.850Z
+  last_success_at: 2026-11-23T02:37:50.850Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/remote-monitoring-management-software
+  normalized_url: https://www.softwaresuggest.com/remote-monitoring-management-software
+  first_seen_at: 2026-11-23T02:36:59.535Z
+  last_attempted_at: 2026-11-23T02:36:59.535Z
+  last_success_at: 2026-11-23T02:36:59.535Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
