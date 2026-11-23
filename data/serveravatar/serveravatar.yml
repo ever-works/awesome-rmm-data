@@ -1,0 +1,43 @@
+name: ServerAvatar
+description: Manage and monitor PHP-based web servers with automated
+  configurations. Free tier supports one server.
+source_url: https://serveravatar.com
+category: RMM Platforms
+tags:
+  - server-management
+  - php
+  - monitoring
+  - free-tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ServerAvatar is a server management platform for managing and monitoring
+  PHP-based web servers with automated configurations.
+
+
+  ## Features
+
+
+  - Server management and monitoring
+
+  - Automated server configurations
+
+  - PHP-based web server support
+
+
+  ## Pricing
+
+
+  Free for one server. Paid plans available for additional servers and features.
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS platform.
+brand: ServerAvatar
+brand_logo_url: https://serveravatar.com/logo.svg
+images: []
+updated_at: 2026-11-23 02:38

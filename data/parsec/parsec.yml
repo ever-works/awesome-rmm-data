@@ -1,0 +1,40 @@
+name: Parsec
+description: "Parsec is a remote desktop application that allows installation on
+  an unlimited number of devices for personal use and supports up to 20
+  simultaneous connections to a single device. It is optimized for low-latency
+  remote access and gaming scenarios. Pricing model: free for personal use."
+source_url: https://parsec.app/
+category: Remote Access
+tags:
+  - Free Plan
+  - low-latency
+  - gaming
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Parsec is a remote desktop application designed for low-latency remote access,
+  well suited to gaming and remote work scenarios.
+
+
+  ## Features
+
+
+  - Installation on an unlimited number of devices for personal use
+
+  - Up to 20 simultaneous connections to a single device
+
+  - Optimized for low-latency streaming and gaming
+
+  - Remote desktop access and control
+
+
+  ## Pricing
+
+
+  Free for personal use.
+brand: Parsec
+brand_logo_url: https://parsec.app/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

@@ -1,0 +1,50 @@
+name: UltraVNC
+description: UltraVNC is a free and open source remote desktop administration
+  tool for Windows. It allows users to remotely view and control other computers
+  over a network, with features including file transfer, chat, and built-in
+  encryption. The software includes both a VNC server and viewer.
+source_url: https://www.uvnc.com/
+category: Open Source
+tags:
+  - Open Source
+  - VNC
+  - Windows
+  - Free
+featured: false
+markdown: >-
+  ## Overview
+
+
+  UltraVNC is a free, open source remote desktop administration tool for Windows
+  that enables remote viewing and control of computers over a network.
+
+
+  ## Features
+
+
+  - Remote desktop viewing and control (Windows)
+
+  - File transfer between client and server
+
+  - Integrated chat during sessions
+
+  - Built-in encryption
+
+  - Remote printing
+
+  - Screen blanking
+
+  - Multiple monitor support
+
+  - Java viewer for browser-based access
+
+
+  ## Pricing
+
+
+  Free and open source software released under the GNU General Public License
+  (GPL).
+brand: UltraVNC
+brand_logo_url: https://www.uvnc.com/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

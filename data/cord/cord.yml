@@ -1,0 +1,52 @@
+name: CoRD
+description: CoRD is an open source Remote Desktop Protocol (RDP) client for
+  macOS, providing an alternative to Microsoft's official RDP client for Mac. It
+  allows users to connect to Windows computers using RDP and supports features
+  like fullscreen mode, multiple connections, and keyboard shortcuts. The
+  software is designed for Mac OS X.
+source_url: https://cord.sourceforge.net/
+category: Open Source
+tags:
+  - Open Source
+  - RDP
+  - macOS
+  - Client
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CoRD is an open source Remote Desktop Protocol (RDP) client for macOS that
+  provides an alternative to Microsoft's Remote Desktop Connection for Mac.
+
+
+  ## Features
+
+
+  - RDP client for macOS
+
+  - Connect to Windows Remote Desktop Services
+
+  - Fullscreen mode
+
+  - Multiple simultaneous connections
+
+  - Keyboard shortcuts
+
+  - Address book for saved connections
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://sourceforge.net/projects/cord/
+brand: CoRD
+brand_logo_url: https://cord.sourceforge.net/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

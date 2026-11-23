@@ -1,0 +1,42 @@
+name: Getscreen.me
+description: "Getscreen.me is a browser-based remote desktop solution that is
+  free for up to 2 devices with no limits on the number or duration of sessions.
+  It enables remote access and support without requiring software installation
+  on the client side. Pricing model: free for up to 2 devices; paid plans for
+  more devices and commercial use."
+source_url: https://getscreen.me/
+category: Remote Access
+tags:
+  - Free Plan
+  - browser-based
+  - remote support
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Getscreen.me is a browser-based remote desktop and remote support solution.
+
+
+  ## Features
+
+
+  - Free for up to 2 devices
+
+  - No limits on the number or duration of sessions
+
+  - Browser-based remote access (no client installation required on the remote
+  side)
+
+  - Remote support capabilities
+
+
+  ## Pricing
+
+
+  Free for up to 2 devices. Paid plans available for additional devices and
+  commercial use.
+brand: Getscreen.me
+brand_logo_url: https://getscreen.me/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

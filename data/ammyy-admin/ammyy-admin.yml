@@ -1,0 +1,42 @@
+name: Ammyy Admin
+description: Ammyy Admin is remote desktop sharing and remote control software
+  for connecting to remote computers. It allows users to remotely administer
+  another computer, provide remote assistance, and transfer files between
+  systems. The software uses built-in encryption for secure connections.
+source_url: https://www.ammyy.com/
+category: Remote Access
+tags:
+  - Free Plan
+  - File transfer
+  - Built-in encryption
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ammyy Admin is remote desktop sharing and remote control software that enables
+  users to connect to remote computers without complex configuration.
+
+
+  ## Features
+
+
+  - Remote desktop sharing and control
+
+  - File transfer between local and remote computers
+
+  - Built-in encryption for data security
+
+  - No installation required for the viewer
+
+  - Supports unattended access
+
+
+  ## Pricing
+
+
+  Free for personal use; commercial licenses available for business use.
+brand: Ammyy
+brand_logo_url: https://www.ammyy.com/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

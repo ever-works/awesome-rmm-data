@@ -1,0 +1,42 @@
+name: Barracuda Backup
+description: Backup with offsite replication and cloud-to-cloud protection for
+  Microsoft 365.
+source_url: https://www.barracuda.com/products/backup
+category: Backup for MSPs
+tags:
+  - backup
+  - microsoft-365
+  - offsite-replication
+  - paid
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Barracuda Backup is backup with offsite replication and cloud-to-cloud
+  protection for Microsoft 365.
+
+
+  ## Features
+
+
+  - Backup
+
+  - Offsite replication
+
+  - Cloud-to-cloud protection
+
+  - Microsoft 365 backup
+
+  - Deduplication
+
+  - Encryption
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Barracuda
+updated_at: 2026-11-23 02:38

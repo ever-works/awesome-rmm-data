@@ -1,0 +1,30 @@
+name: HeyRetro
+description: Real-time sprint retrospective platform with voting, timers,
+  surveys, guest collaboration, and ice-breaker games. The forever-free plan
+  includes one board per month, anonymous surveys, and guest link sharing.
+source_url: https://heyretro.com
+category: PSA (Professional Services Automation)
+tags:
+  - retrospective
+  - agile
+  - scrum
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  HeyRetro is a real-time sprint retrospective platform for agile teams.
+
+  ## Features
+
+  - Sprint retrospective
+  - Voting, timers, surveys
+  - Guest collaboration
+  - Ice-breaker games
+  - Forever-free plan: 1 board per month, anonymous surveys, guest link sharing
+
+  ## Pricing
+
+  Forever-free plan available.
+brand: HeyRetro
+brand_logo_url: https://heyretro.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

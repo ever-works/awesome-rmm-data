@@ -1,0 +1,41 @@
+name: BenjiPays
+description: Invoice payment portal with autopay and reconciliation between the
+  accounting system and clients.
+source_url: https://benjipays.com/
+category: PSA (Professional Services Automation)
+tags:
+  - payments
+  - billing
+  - invoicing
+  - autopay
+  - paid
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BenjiPays is an invoice payment portal with autopay and reconciliation between
+  the accounting system and clients.
+
+
+  ## Features
+
+
+  - Invoice payment portal
+
+  - Autopay
+
+  - Accounting system reconciliation
+
+  - Client payment portal
+
+  - Payment processing
+
+
+  ## Pricing
+
+
+  Paid.
+brand: BenjiPays
+updated_at: 2026-11-23 02:38

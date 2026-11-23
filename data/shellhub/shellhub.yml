@@ -1,0 +1,50 @@
+name: ShellHub
+description: Modern SSH server for remotely accessing Linux devices via command
+  line (using any SSH client) or web-based user interface. Open-source
+  alternative to sshd, written with Docker support, released under the
+  Apache-2.0 license.
+source_url: https://www.shellhub.io/
+category: Remote Access
+tags:
+  - open-source
+  - self-hosted
+  - ssh
+  - linux
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ShellHub is a modern SSH server for remotely accessing Linux devices via
+  command line using any SSH client, or through a web-based user interface. It
+  serves as an alternative to traditional sshd.
+
+
+  ## Features
+
+
+  - Modern SSH server
+
+  - Command-line access via any SSH client
+
+  - Web-based user interface
+
+  - Alternative to sshd
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache-2.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker.
+brand: ShellHub
+brand_logo_url: https://www.shellhub.io/logo.png
+images: []
+updated_at: 2026-11-23 02:38

@@ -1,0 +1,43 @@
+name: Trello
+description: Board-based project management tool. Offers unlimited personal
+  boards, 10 team boards on the free plan.
+source_url: https://trello.com
+category: PSA (Professional Services Automation)
+tags:
+  - project-management
+  - kanban
+  - boards
+  - Free Plan
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Trello is a board-based project management tool using Kanban-style boards for
+  organizing tasks and projects.
+
+
+  ## Features
+
+
+  - Board-based project management
+
+  - Kanban-style boards
+
+  - Unlimited personal boards
+
+  - 10 team boards on free plan
+
+  - Collaboration features
+
+
+  ## Pricing
+
+
+  Free plan includes unlimited personal boards and 10 team boards. Paid plans
+  available for additional features.
+brand: Atlassian
+brand_logo_url: https://brand.atlassian.com/assets/images/logo/trello.svg
+images:
+  - https://brand.atlassian.com/assets/images/og/trello-og.png
+updated_at: 2026-11-23 02:38

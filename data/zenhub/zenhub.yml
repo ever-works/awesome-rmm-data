@@ -1,0 +1,36 @@
+name: ZenHub
+description: The only project management solution inside GitHub. Free for public
+  repos, OSS, and nonprofit organizations.
+source_url: https://www.zenhub.com
+category: PSA (Professional Services Automation)
+tags:
+  - github
+  - project-management
+  - Free Plan
+  - OSS
+markdown: >-
+  ## Overview
+
+
+  ZenHub is a project management solution that integrates directly inside
+  GitHub.
+
+
+  ## Features
+
+
+  - Project management inside GitHub
+
+  - Free for public repos, OSS, and nonprofit organizations
+
+  - GitHub integration
+
+
+  ## Pricing
+
+
+  Free for public repositories, open-source projects, and nonprofit
+  organizations. Paid plans for private repositories.
+brand: ZenHub
+brand_logo_url: https://www.zenhub.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

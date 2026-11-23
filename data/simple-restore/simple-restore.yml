@@ -1,0 +1,29 @@
+name: SimpleRestore
+description: "SimpleRestore is a hassle-free MySQL backup restoration tool that
+  restores MySQL backups to any remote database without code or a server.
+  Pricing model: free."
+source_url: https://simple-restore.com/
+category: Backup for MSPs
+tags:
+  - Free
+  - MySQL
+  - database restore
+featured: false
+markdown: |-
+  ## Overview
+
+  SimpleRestore is a MySQL backup restoration service.
+
+  ## Features
+
+  - Restore MySQL backups to any remote database
+  - No code required
+  - No server required
+
+  ## Pricing
+
+  Free.
+brand: SimpleRestore
+brand_logo_url: https://simple-restore.com/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

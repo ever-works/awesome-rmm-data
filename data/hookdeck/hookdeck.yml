@@ -1,0 +1,28 @@
+name: Hookdeck
+description: Develop, test, and monitor webhooks from anywhere. Free tier
+  includes 100K requests and 100K attempts per month with three days retention.
+source_url: https://hookdeck.com
+category: Remote Access
+tags:
+  - webhook
+  - api
+  - monitoring
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  Hookdeck is a platform for developing, testing, and monitoring webhooks.
+
+  ## Features
+
+  - Webhook development and testing
+  - Webhook monitoring
+  - 100K requests and 100K attempts per month on free tier
+  - Three days retention on free tier
+
+  ## Pricing
+
+  Free tier available with 100K requests/month. Paid plans for higher volumes.
+brand: Hookdeck
+brand_logo_url: https://hookdeck.com/logo.svg
+updated_at: 2026-11-23 02:38

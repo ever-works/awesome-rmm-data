@@ -1,0 +1,49 @@
+name: HP Remote Graphics Software
+description: HP Remote Graphics Software (RGS) is a remote desktop solution for
+  high-performance workstations, enabling users to remotely access
+  graphics-intensive applications. It supports remote access to HP Z
+  Workstations and is designed for professionals working with 3D modeling, CAD,
+  and other visually demanding workloads. The software is developed by Hewlett
+  Packard.
+source_url: https://www.hp.com/us-en/workstations/remote-access.html
+category: Remote Access
+tags:
+  - Paid
+  - Workstation
+  - Graphics
+  - Remote access
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HP Remote Graphics Software (RGS) enables remote access to high-performance
+  workstations, allowing users to run graphics-intensive applications from
+  remote locations.
+
+
+  ## Features
+
+
+  - Remote access to HP Z Workstations
+
+  - High-performance graphics transmission
+
+  - Support for 3D modeling and CAD applications
+
+  - File transfer between client and host
+
+  - Audio support
+
+  - Multi-monitor support
+
+
+  ## Pricing
+
+
+  Commercial software; sender is free on HP Z Workstations, receiver is a free
+  download.
+brand: Hewlett Packard
+brand_logo_url: https://www.hp.com/content/dam/hp/hpft/wti/shared/images/logos/hp-logo.svg
+images: []
+updated_at: 2026-11-23 02:38

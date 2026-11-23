@@ -1,0 +1,39 @@
+name: Clockify
+description: Time tracker and timesheet app that lets you track work hours
+  across projects. Unlimited users, free forever.
+source_url: https://clockify.me
+category: PSA (Professional Services Automation)
+tags:
+  - time-tracking
+  - timesheet
+  - Free Plan
+  - unlimited-users
+markdown: >-
+  ## Overview
+
+
+  Clockify is a time tracker and timesheet app for tracking work hours across
+  projects.
+
+
+  ## Features
+
+
+  - Time tracking
+
+  - Timesheet app
+
+  - Track work hours across projects
+
+  - Unlimited users
+
+  - Free forever
+
+
+  ## Pricing
+
+
+  Free forever with unlimited users.
+brand: Clockify
+brand_logo_url: https://clockify.me/images/logo.svg
+updated_at: 2026-11-23 02:38

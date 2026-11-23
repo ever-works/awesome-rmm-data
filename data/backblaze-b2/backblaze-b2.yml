@@ -1,0 +1,52 @@
+name: Backblaze B2
+description: Backblaze B2 is an Amazon S3-compatible object storage service
+  offering cloud storage for backup and data archiving. It provides 10 GB of
+  free object storage with no time limit, making it suitable for MSP backup
+  storage needs. Data can be accessed via APIs, CLI, and various third-party
+  integrations.
+source_url: https://www.backblaze.com/
+category: Backup for MSPs
+tags:
+  - Free Plan
+  - Cloud
+  - Object Storage
+  - Backup
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Backblaze B2 Cloud Storage is an S3-compatible object storage service designed
+  for backup, data archiving, and cloud storage needs.
+
+
+  ## Features
+
+
+  - S3-compatible API for integration with existing backup tools
+
+  - 10 GB free object storage with no expiration
+
+  - Unlimited free time for stored data
+
+  - Access via APIs, CLI, and third-party integrations
+
+  - Suitable for MSP backup storage and disaster recovery
+
+
+  ## Pricing Model
+
+
+  Free tier includes 10 GB of object storage indefinitely. Paid storage beyond
+  the free tier is charged per GB per month, with downloads also billed per GB.
+
+
+  ## Deployment
+
+
+  Cloud-hosted service.
+brand: Backblaze
+brand_logo_url: https://www.backblaze.com/images/logo.svg
+images:
+  - https://www.backblaze.com/images/backblaze-logo.svg
+updated_at: 2026-11-23 02:38

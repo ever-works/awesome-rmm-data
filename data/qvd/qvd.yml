@@ -1,0 +1,51 @@
+name: QVD
+description: QVD is an open source Linux VDI (Virtual Desktop Infrastructure)
+  platform for delivering virtual desktops to users. It provides remote desktop
+  access to virtual machines and supports multiple connection protocols. The
+  project is released under the GNU Affero General Public License.
+source_url: https://www.qvd.com/
+category: Open Source
+tags:
+  - Open Source
+  - Self-Hosted
+  - VDI
+  - Linux
+featured: false
+markdown: >-
+  ## Overview
+
+
+  QVD (QVD Virtual Desktop) is an open source Linux VDI platform that delivers
+  virtual desktops to end users over the network.
+
+
+  ## Features
+
+
+  - Virtual desktop infrastructure for Linux
+
+  - Remote desktop access to virtual machines
+
+  - HTML5 client access via browser
+
+  - Multiple connection protocol support
+
+  - Centralized management console
+
+  - User and group management
+
+
+  ## Pricing
+
+
+  Open source, released under the GNU Affero General Public License (AGPL).
+
+
+  ## Repository
+
+
+  https://github.com/QVD
+brand: QVD
+brand_logo_url: https://www.qvd.com/assets/images/logo.svg
+images: []
+updated_at: 2026-11-23 02:38

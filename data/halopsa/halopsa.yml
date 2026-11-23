@@ -1,0 +1,30 @@
+name: HaloPSA
+description: All-in-one PSA software for managed service providers.
+source_url: https://www.usehalo.com/managed-services
+category: PSA (Professional Services Automation)
+tags:
+  - psa
+  - helpdesk
+  - paid
+  - api
+featured: false
+markdown: |-
+  ## Overview
+
+  HaloPSA is all-in-one PSA software for managed service providers.
+
+  ## Features
+
+  - PSA (Professional Services Automation)
+  - Help desk
+  - Ticketing
+  - Asset management
+  - Contract management
+  - Billing
+  - API integrations
+
+  ## Pricing
+
+  Paid.
+brand: HaloPSA
+updated_at: 2026-11-23 02:38

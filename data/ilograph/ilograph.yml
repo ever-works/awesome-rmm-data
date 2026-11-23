@@ -1,0 +1,40 @@
+name: Ilograph
+description: Interactive diagrams that allow users to see their infrastructure
+  from multiple perspectives and levels of detail. Charts can be expressed in
+  code. The free tier has unlimited private diagrams with up to 3 viewers.
+source_url: https://ilograph.com
+category: PSA (Professional Services Automation)
+tags:
+  - infrastructure-diagrams
+  - interactive-diagrams
+  - code-as-diagrams
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  Ilograph creates interactive infrastructure diagrams viewable from multiple
+  perspectives and levels of detail.
+
+
+  ## Features
+
+
+  - Interactive diagrams
+
+  - Infrastructure visualization
+
+  - Multiple perspectives and detail levels
+
+  - Charts expressed in code
+
+  - Free tier: unlimited private diagrams, up to 3 viewers
+
+
+  ## Pricing
+
+
+  Free tier available. Paid plans for more viewers and features.
+brand: Ilograph
+brand_logo_url: https://ilograph.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

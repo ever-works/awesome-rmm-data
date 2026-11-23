@@ -1,0 +1,46 @@
+name: Mikogo
+description: Mikogo is a screen sharing and remote support software solution
+  developed by Beam Your Screen. It enables online meetings, web conferencing,
+  and remote desktop access for support and collaboration. The software supports
+  multiple platforms including Windows, macOS, Linux, Android, and iOS.
+source_url: https://www.mikogo.com/
+category: Remote Access
+tags:
+  - Freemium
+  - Screen sharing
+  - Web conferencing
+  - Multi-platform
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mikogo is screen sharing and remote support software that enables online
+  meetings, web conferencing, and remote desktop access for technical support
+  and collaboration.
+
+
+  ## Features
+
+
+  - Screen sharing and remote control
+
+  - Online meetings and web conferencing
+
+  - Cross-platform support (Windows, macOS, Linux, iOS, Android)
+
+  - File transfer during sessions
+
+  - Session recording
+
+  - Remote support with access permission request
+
+
+  ## Pricing
+
+
+  Free version available with limited features; paid plans for business use.
+brand: Beam Your Screen
+brand_logo_url: https://www.mikogo.com/assets/images/logo.svg
+images: []
+updated_at: 2026-11-23 02:38

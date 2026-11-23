@@ -1,0 +1,43 @@
+name: Basecamp
+description: Project management tool with to-do lists, milestone management,
+  forum-like messaging, file sharing, and time tracking. Free plan supports up
+  to 3 projects, 20 users, and 1GB of storage space.
+source_url: https://basecamp.com
+category: PSA (Professional Services Automation)
+tags:
+  - project-management
+  - time-tracking
+  - file-sharing
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  Basecamp is a project management and team communication tool featuring to-do
+  lists, milestone management, messaging, file sharing, and time tracking.
+
+
+  ## Features
+
+
+  - To-do lists
+
+  - Milestone management
+
+  - Forum-like messaging
+
+  - File sharing
+
+  - Time tracking
+
+  - Free plan: 3 projects, 20 users, 1GB storage
+
+
+  ## Pricing
+
+
+  Free plan supports up to 3 projects, 20 users, and 1GB storage. Paid plans
+  available.
+brand: Basecamp
+brand_logo_url: https://basecamp.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

@@ -1,0 +1,50 @@
+name: LogMeIn Resolve
+description: LogMeIn Resolve is a remote support and remote access solution from
+  LogMeIn for IT teams and managed service providers. It enables remote
+  troubleshooting, unattended access, and support for Windows, macOS, Linux,
+  iOS, and Android devices. The platform includes features for session
+  management, diagnostics, and remote control.
+source_url: https://www.logmein.com/products/resolve
+category: Remote Access
+tags:
+  - Paid
+  - Remote support
+  - Multi-platform
+  - IT support
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LogMeIn Resolve is a remote support and remote access solution designed for IT
+  support teams and managed service providers to troubleshoot and manage
+  endpoints remotely.
+
+
+  ## Features
+
+
+  - Unattended remote access
+
+  - On-demand remote support
+
+  - Multi-platform support (Windows, macOS, Linux, iOS, Android)
+
+  - Session diagnostics and management
+
+  - File transfer
+
+  - Remote reboot and reconnect
+
+  - Screen sharing and remote control
+
+
+  ## Pricing
+
+
+  Paid subscription service with tiered pricing based on number of technicians
+  and devices.
+brand: LogMeIn
+brand_logo_url: https://www.logmein.com/content/dam/logmein/common/images/logos/logmein-logo.svg
+images: []
+updated_at: 2026-11-23 02:38

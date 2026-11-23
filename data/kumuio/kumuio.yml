@@ -1,0 +1,29 @@
+name: Kumu.io
+description: Relationship maps with animation, decorations, filters, clustering,
+  spreadsheet imports. The free tier allows unlimited public projects. Graph
+  size unlimited. Free private projects for students.
+source_url: https://kumu.io
+category: PSA (Professional Services Automation)
+tags:
+  - relationship-maps
+  - network-visualization
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  Kumu.io is a relationship mapping and network visualization tool.
+
+  ## Features
+
+  - Relationship maps
+  - Animation, decorations, filters, clustering
+  - Spreadsheet imports
+  - Free tier: unlimited public projects, unlimited graph size
+  - Free private projects for students
+
+  ## Pricing
+
+  Free tier available. Paid plans for private projects (non-students).
+brand: Kumu.io
+brand_logo_url: https://kumu.io/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

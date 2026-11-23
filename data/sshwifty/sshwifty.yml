@@ -1,0 +1,51 @@
+name: Sshwifty
+description: SSH and Telnet connector made for the Web. Open-source project
+  written in Go, released under the AGPL-3.0 license, with Docker support and a
+  live demo available.
+source_url: https://sshwifty.app/
+category: Remote Access
+tags:
+  - open-source
+  - self-hosted
+  - ssh
+  - telnet
+  - web
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Sshwifty is an SSH and Telnet connector designed for web browsers, enabling
+  browser-based access to SSH and Telnet services.
+
+
+  ## Features
+
+
+  - SSH connector for the web
+
+  - Telnet connector for the web
+
+  - Browser-based access
+
+  - Written in Go
+
+  - Docker support
+
+  - Live demo available
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker.
+brand: Sshwifty
+brand_logo_url: https://sshwifty.app/logo.png
+images: []
+updated_at: 2026-11-23 02:38

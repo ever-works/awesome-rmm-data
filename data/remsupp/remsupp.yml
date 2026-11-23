@@ -1,0 +1,39 @@
+name: RemSupp
+description: "RemSupp provides on-demand support and permanent access to
+  devices, with a free tier allowing 2 sessions per day. It is designed for
+  remote assistance and device management. Pricing model: free tier with 2
+  sessions per day; paid plans for higher volume."
+source_url: https://remsupp.com/
+category: Remote Access
+tags:
+  - Free Plan
+  - remote support
+  - on-demand
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RemSupp is a remote support and remote access tool for on-demand assistance
+  and permanent device access.
+
+
+  ## Features
+
+
+  - On-demand support sessions
+
+  - Permanent access to devices
+
+  - Free tier allows 2 sessions per day
+
+
+  ## Pricing
+
+
+  Free tier includes 2 sessions per day. Paid plans available for higher session
+  volumes.
+brand: RemSupp
+brand_logo_url: https://remsupp.com/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

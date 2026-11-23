@@ -1,0 +1,55 @@
+name: RemotePC
+description: RemotePC is a remote access solution that enables users to remotely
+  access and manage computers from any device. It supports remote access, file
+  transfer, remote printing, and multi-platform connectivity for managed service
+  providers and IT teams. Pricing starts from $0 forever with a free trial
+  available.
+source_url: https://www.remotepc.com/
+category: Remote Access
+tags:
+  - remote-access
+  - file-transfer
+  - remote-printing
+  - multi-platform
+  - freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RemotePC is a remote access solution that enables users to access and manage
+  computers remotely from any device, supporting managed service providers and
+  IT teams in delivering remote support.
+
+
+  ## Key Features
+
+
+  - Remote Access
+
+  - File Transfer
+
+  - Remote Printing
+
+  - Multi Platform
+
+  - Unattended Access
+
+  - Multi-session Handling
+
+
+  ## Pricing
+
+
+  Starts from $0 forever. Free trial available.
+
+
+  ## Deployment
+
+
+  Cloud-based
+brand: IDrive Inc.
+brand_logo_url: https://www.remotepc.com/images/logo.png
+images:
+  - https://www.remotepc.com/images/remotepc-hero.png
+updated_at: 2026-11-23 02:38

@@ -1,0 +1,42 @@
+name: ClickUp
+description: Project management platform with a free tier and premium version
+  with cloud storage. Mobile applications and Git integrations are available.
+source_url: https://clickup.com
+category: PSA (Professional Services Automation)
+tags:
+  - project-management
+  - productivity
+  - Free Plan
+  - Git integration
+featured: true
+markdown: >-
+  ## Overview
+
+
+  ClickUp is a project management platform offering a free tier with premium
+  features available on paid plans.
+
+
+  ## Features
+
+
+  - Project management
+
+  - Free tier available
+
+  - Premium version with cloud storage
+
+  - Mobile applications
+
+  - Git integrations
+
+
+  ## Pricing
+
+
+  Free tier available. Paid plans for premium features and cloud storage.
+brand: ClickUp
+brand_logo_url: https://clickup.com/images/logos/clickup-logo.svg
+images:
+  - https://clickup.com/images/og-image.png
+updated_at: 2026-11-23 02:38

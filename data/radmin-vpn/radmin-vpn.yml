@@ -1,0 +1,39 @@
+name: Radmin VPN
+description: Connect multiple computers together via a VPN-enabling LAN-like
+  network. Supports unlimited peers. Positioned as a Hamachi alternative.
+source_url: https://www.radmin-vpn.com
+category: Remote Access
+tags:
+  - VPN
+  - LAN
+  - Free Plan
+  - Hamachi alternative
+markdown: >-
+  ## Overview
+
+
+  Radmin VPN is a free VPN tool that connects multiple computers into a LAN-like
+  network.
+
+
+  ## Features
+
+
+  - Connect multiple computers via VPN
+
+  - LAN-like network emulation
+
+  - Unlimited peers
+
+  - Free to use
+
+  - Hamachi alternative
+
+
+  ## Pricing
+
+
+  Completely free.
+brand: Famatech
+brand_logo_url: https://www.radmin-vpn.com/images/logo.png
+updated_at: 2026-11-23 02:38

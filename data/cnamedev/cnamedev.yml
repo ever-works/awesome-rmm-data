@@ -1,0 +1,25 @@
+name: cname.dev
+description: Free and secure dynamic reverse proxy service for exposing local
+  services to the internet.
+source_url: https://cname.dev
+category: Remote Access
+tags:
+  - reverse-proxy
+  - dynamic
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  cname.dev is a free and secure dynamic reverse proxy service.
+
+  ## Features
+
+  - Dynamic reverse proxy
+  - Secure tunneling
+  - Free to use
+
+  ## Pricing
+
+  Free.
+brand: cname.dev
+updated_at: 2026-11-23 02:38

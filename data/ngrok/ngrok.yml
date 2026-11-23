@@ -1,0 +1,42 @@
+name: ngrok
+description: Expose locally running servers over a tunnel to a public URL.
+  Widely used for webhook development, testing, and sharing local development
+  environments.
+source_url: https://ngrok.com
+category: Remote Access
+tags:
+  - tunneling
+  - localhost
+  - webhook
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  ngrok is a service that exposes locally running servers over a tunnel to a
+  public URL, commonly used for webhook development, testing APIs, and sharing
+  local development environments.
+
+
+  ## Features
+
+
+  - Expose localhost servers over public tunnel
+
+  - Public URL for local development
+
+  - Webhook testing and debugging
+
+  - API development and testing
+
+
+  ## Pricing
+
+
+  Free tier available. Paid plans for custom domains, more concurrent
+  connections, and advanced features.
+brand: ngrok
+brand_logo_url: https://ngrok.com/images/logos/brandmark/ngrok-logo.svg
+images:
+  - https://ngrok.com/images/ngrok-og.png
+updated_at: 2026-11-23 02:38

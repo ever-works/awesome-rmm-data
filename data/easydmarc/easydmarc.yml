@@ -1,0 +1,41 @@
+name: EasyDMARC
+description: DMARC monitoring, SPF and DKIM management, and reporting with an MSP program.
+source_url: https://easydmarc.com/
+category: Security for MSPs
+tags:
+  - email-security
+  - dmarc
+  - spf
+  - dkim
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  EasyDMARC is DMARC monitoring, SPF and DKIM management, and reporting with an
+  MSP program.
+
+
+  ## Features
+
+
+  - DMARC monitoring
+
+  - SPF management
+
+  - DKIM management
+
+  - Reporting
+
+  - MSP program
+
+  - Domain protection
+
+
+  ## Pricing
+
+
+  Paid.
+brand: EasyDMARC
+updated_at: 2026-11-23 02:38

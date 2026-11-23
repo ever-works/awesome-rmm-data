@@ -1,0 +1,41 @@
+name: UserJot
+description: "Live chat, feedback boards, a roadmap, and a changelog. Free plan:
+  Unlimited Posts, Unlimited Users, 3 Admin Roles, 2 Feedback Boards, Roadmap,
+  Changelog."
+source_url: https://userjot.com
+category: PSA (Professional Services Automation)
+tags:
+  - customer-feedback
+  - live-chat
+  - roadmap
+  - changelog
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  UserJot is a customer feedback platform with live chat, feedback boards,
+  roadmap, and changelog.
+
+
+  ## Features
+
+
+  - Live chat
+
+  - Feedback boards
+
+  - Roadmap
+
+  - Changelog
+
+  - Free plan: Unlimited posts, users, 3 admin roles, 2 feedback boards
+
+
+  ## Pricing
+
+
+  Free plan available. Paid plans for more admin roles and boards.
+brand: UserJot
+brand_logo_url: https://userjot.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

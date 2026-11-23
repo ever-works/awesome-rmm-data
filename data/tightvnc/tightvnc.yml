@@ -1,0 +1,52 @@
+name: TightVNC
+description: TightVNC is a free and open source remote desktop software based on
+  VNC technology. It allows users to view and control remote computers over a
+  network, with support for Windows, Linux, and other platforms. The software
+  includes both server and client components.
+source_url: https://www.tightvnc.com/
+category: Open Source
+tags:
+  - Open Source
+  - VNC
+  - Free
+  - Cross-platform
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TightVNC is a free, open source remote desktop application using VNC (Virtual
+  Network Computing) technology for viewing and controlling remote computers.
+
+
+  ## Features
+
+
+  - Remote desktop viewing and control
+
+  - Cross-platform server and client (Windows, Linux)
+
+  - File transfer
+
+  - Built-in compression for low-bandwidth connections
+
+  - HTTP access via Java applet
+
+  - Password authentication
+
+
+  ## Pricing
+
+
+  Free and open source software released under the GNU General Public License
+  (GPL).
+
+
+  ## Repository
+
+
+  https://github.com/TightVNC/tightvnc
+brand: TightVNC Group
+brand_logo_url: https://www.tightvnc.com/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

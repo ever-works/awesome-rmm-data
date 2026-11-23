@@ -1,0 +1,28 @@
+name: Helploom
+description: Customer support software that offers a live chat on the free
+  forever plan. Simple, lightweight and beautiful. Setup is a simple copy-paste
+  script.
+source_url: https://helploom.com
+category: PSA (Professional Services Automation)
+tags:
+  - customer-support
+  - live-chat
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  Helploom is customer support software with live chat functionality.
+
+  ## Features
+
+  - Customer support software
+  - Live chat
+  - Free forever plan
+  - Simple copy-paste setup
+
+  ## Pricing
+
+  Free forever plan available.
+brand: Helploom
+brand_logo_url: https://helploom.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

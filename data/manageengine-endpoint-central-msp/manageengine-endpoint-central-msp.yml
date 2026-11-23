@@ -1,0 +1,65 @@
+name: ManageEngine Endpoint Central MSP
+description: ManageEngine Endpoint Central MSP is a unified endpoint management
+  and security platform designed for managed service providers. It offers remote
+  access, patch management, software deployment, asset management, and
+  multi-tenancy capabilities for managing client IT infrastructure from a
+  centralized console. Pricing starts from $2 per endpoint per month with a free
+  trial available.
+source_url: https://www.manageengine.com/msp/
+category: RMM Platforms
+tags:
+  - multi-tenancy
+  - remote-access
+  - patch-management
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ManageEngine Endpoint Central MSP is a unified endpoint management and
+  security platform built for managed service providers to manage multiple
+  client networks from a single console.
+
+
+  ## Key Features
+
+
+  - Asset Management
+
+  - Billing
+
+  - Multi Tenancy
+
+  - Reporting And Analytics
+
+  - Remote Access
+
+  - File Transfer
+
+  - Remote Printing
+
+  - Multi Platform
+
+  - Patch Management
+
+  - Software Deployment
+
+  - IT Asset Inventory
+
+
+  ## Pricing
+
+
+  Starts from $2 per endpoint per month. Free trial available.
+
+
+  ## Deployment
+
+
+  Cloud-based
+brand: ManageEngine
+brand_logo_url: https://www.manageengine.com/images/logo.svg
+images:
+  - https://www.manageengine.com/msp/images/endpoint-central-msp.png
+updated_at: 2026-11-23 02:38

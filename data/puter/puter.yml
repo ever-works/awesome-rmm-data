@@ -1,0 +1,50 @@
+name: Puter
+description: Web-based operating system designed to be feature-rich,
+  exceptionally fast, and highly extensible. Open-source project written in
+  Node.js, released under the AGPL-3.0 license, with Docker support.
+source_url: https://puter.com/
+category: Remote Access
+tags:
+  - open-source
+  - self-hosted
+  - web-os
+  - nodejs
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Puter is a web-based operating system designed to be feature-rich,
+  exceptionally fast, and highly extensible, accessible through a web browser.
+
+
+  ## Features
+
+
+  - Web-based operating system
+
+  - Feature-rich and fast
+
+  - Highly extensible
+
+  - Browser-based access
+
+  - Written in Node.js
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker.
+brand: Puter
+brand_logo_url: https://puter.com/logo.png
+images: []
+updated_at: 2026-11-23 02:38

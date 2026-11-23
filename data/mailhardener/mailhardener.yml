@@ -1,0 +1,42 @@
+name: Mailhardener
+description: DMARC, SPF, DKIM, MTA-STS, and TLS-RPT monitoring and reporting.
+source_url: https://www.mailhardener.com/
+category: Security for MSPs
+tags:
+  - email-security
+  - dmarc
+  - spf
+  - dkim
+  - monitoring
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mailhardener is DMARC, SPF, DKIM, MTA-STS, and TLS-RPT monitoring and
+  reporting.
+
+
+  ## Features
+
+
+  - DMARC monitoring
+
+  - SPF monitoring
+
+  - DKIM monitoring
+
+  - MTA-STS monitoring
+
+  - TLS-RPT monitoring
+
+  - Reporting
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Mailhardener
+updated_at: 2026-11-23 02:38

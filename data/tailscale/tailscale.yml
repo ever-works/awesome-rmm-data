@@ -1,0 +1,44 @@
+name: Tailscale
+description: Zero-config VPN using the open-source WireGuard protocol. Installs
+  on macOS, iOS, Windows, Linux, and Android devices. Free plan for personal use
+  with 100 devices and three users.
+source_url: https://tailscale.com
+category: Remote Access
+tags:
+  - open-source
+  - VPN
+  - WireGuard
+  - Free Plan
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Tailscale is a zero-config VPN that uses the open-source WireGuard protocol to
+  create secure private networks between devices.
+
+
+  ## Features
+
+
+  - Zero-configuration setup
+
+  - WireGuard protocol
+
+  - Cross-platform support: macOS, iOS, Windows, Linux, Android
+
+  - Free plan for personal use
+
+  - 100 devices and 3 users on free plan
+
+
+  ## Pricing
+
+
+  Free for personal use (up to 100 devices, 3 users). Paid plans available for
+  teams and commercial use.
+brand: Tailscale
+brand_logo_url: https://tailscale.com/logos/vertical-lockup-color.svg
+images:
+  - https://tailscale.com/images/og-tailscale.png
+updated_at: 2026-11-23 02:38

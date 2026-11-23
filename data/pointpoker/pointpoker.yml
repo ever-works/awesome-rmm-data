@@ -1,0 +1,28 @@
+name: point.poker
+description: Online Planning Poker (consensus-based estimation tool). Free for
+  unlimited users, teams, sessions, rounds, and votes. No registration required.
+source_url: https://point.poker
+category: PSA (Professional Services Automation)
+tags:
+  - planning-poker
+  - agile
+  - estimation
+  - free
+  - no-registration
+markdown: |-
+  ## Overview
+
+  point.poker is an online Planning Poker tool for consensus-based estimation.
+
+  ## Features
+
+  - Online Planning Poker
+  - Consensus-based estimation
+  - Free for unlimited users, teams, sessions, rounds, votes
+  - No registration required
+
+  ## Pricing
+
+  Completely free.
+brand: point.poker
+updated_at: 2026-11-23 02:38

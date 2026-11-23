@@ -1,0 +1,53 @@
+name: TurboVNC
+description: TurboVNC is a VNC implementation optimized for 3D graphics and
+  video applications, derived from TigerVNC. It uses the VirtualGL library to
+  provide hardware-accelerated 3D rendering over remote connections. The
+  software is designed for engineers, scientists, and researchers working with
+  visualization workloads.
+source_url: https://turbovnc.org/
+category: Open Source
+tags:
+  - Open Source
+  - VNC
+  - 3D graphics
+  - VirtualGL
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TurboVNC is a VNC implementation optimized for 3D graphics and video
+  applications, using VirtualGL for hardware-accelerated OpenGL rendering over
+  remote connections.
+
+
+  ## Features
+
+
+  - High-performance 3D graphics over VNC
+
+  - Hardware-accelerated OpenGL via VirtualGL
+
+  - Cross-platform support
+
+  - JPEG compression for low-bandwidth connections
+
+  - File transfer
+
+  - Encryption support
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://github.com/TurboVNC/turbovnc
+brand: TurboVNC
+brand_logo_url: https://turbovnc.org/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

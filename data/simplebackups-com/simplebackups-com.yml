@@ -1,0 +1,42 @@
+name: SimpleBackups
+description: "SimpleBackups is a backup automation service for servers and
+  databases (MySQL, PostgreSQL, MongoDB) that stores backups directly into cloud
+  storage providers such as AWS, DigitalOcean, and Backblaze. It provides a free
+  plan for 1 backup. Pricing model: freemium with a free plan and paid tiers."
+source_url: https://simplebackups.com/
+category: Backup for MSPs
+tags:
+  - Free Plan
+  - cloud backup
+  - database backup
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SimpleBackups is a backup automation service for servers and databases,
+  storing backups directly into cloud storage providers.
+
+
+  ## Features
+
+
+  - Backup automation for servers and databases
+
+  - Supports MySQL, PostgreSQL, and MongoDB
+
+  - Stores backups into cloud storage providers including AWS, DigitalOcean, and
+  Backblaze
+
+  - Free plan includes 1 backup
+
+
+  ## Pricing
+
+
+  Freemium: a free plan for 1 backup, with paid tiers for additional backups and
+  features.
+brand: SimpleBackups
+brand_logo_url: https://simplebackups.com/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

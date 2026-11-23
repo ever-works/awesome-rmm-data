@@ -1,0 +1,28 @@
+name: Rev.io
+description: PSA and billing platform for MSPs, formerly Tigerpaw.
+source_url: https://www.rev.io/
+category: PSA (Professional Services Automation)
+tags:
+  - psa
+  - billing
+  - paid
+  - api
+featured: false
+markdown: |-
+  ## Overview
+
+  Rev.io is a PSA and billing platform for MSPs, formerly Tigerpaw.
+
+  ## Features
+
+  - PSA (Professional Services Automation)
+  - Billing
+  - Invoicing
+  - Ticketing
+  - Reporting
+
+  ## Pricing
+
+  Paid.
+brand: Rev.io
+updated_at: 2026-11-23 02:38

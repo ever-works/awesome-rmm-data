@@ -1,0 +1,39 @@
+name: Todoist
+description: Collaborative and individual task management. The free plan
+  includes 5 active projects, five users per project, file uploading up to 5MB,
+  three filters, and one week of activity history.
+source_url: https://todoist.com
+category: PSA (Professional Services Automation)
+tags:
+  - task-management
+  - todo-list
+  - Free Plan
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Todoist is a collaborative and individual task management application.
+
+
+  ## Features
+
+
+  - Collaborative and individual task management
+
+  - Free plan: 5 active projects, 5 users per project, 5MB file uploads, 3
+  filters, 1 week activity history
+
+  - Cross-platform support
+
+
+  ## Pricing
+
+
+  Free plan available with limits on projects, users, and file uploads. Paid
+  plans for premium features.
+brand: Todoist
+brand_logo_url: https://todoist.com/logo.svg
+images:
+  - https://todoist.com/og-image.png
+updated_at: 2026-11-23 02:38

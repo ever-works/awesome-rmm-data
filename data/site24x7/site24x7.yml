@@ -1,0 +1,44 @@
+name: Site24x7
+description: Site24x7 is a remote monitoring and management platform for IT
+  infrastructure, offering uptime monitoring, page speed tracking, transaction
+  monitoring, and real user monitoring. It serves freelancers, startups, SMBs,
+  and enterprises with pricing starting from $6 per month and a free trial
+  available.
+source_url: https://www.site24x7.com
+category: RMM Platforms
+tags:
+  - SaaS
+  - monitoring
+  - uptime
+  - real-user-monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Site24x7 is a cloud-based remote monitoring and management solution designed
+  for IT teams and managed service providers. It enables monitoring of websites,
+  servers, applications, and network infrastructure from a unified console.
+
+
+  ## Key Features
+
+
+  - Uptime Monitoring
+
+  - Page Speed Monitoring
+
+  - Transaction Monitoring
+
+  - Real User Monitoring
+
+  - Free trial available
+
+
+  ## Pricing
+
+
+  Starts from $6 per month. A free trial is offered.
+brand: Zoho Corporation
+images: []
+updated_at: 2026-11-23 02:38

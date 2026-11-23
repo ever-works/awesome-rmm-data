@@ -1,0 +1,56 @@
+name: xrdp
+description: xrdp is an open source Remote Desktop Protocol (RDP) server for
+  Linux and Unix-like operating systems. It allows users to connect to a Linux
+  desktop from Windows Remote Desktop clients and other RDP-compatible clients.
+  The software provides a full desktop session over RDP.
+source_url: https://www.xrdp.org/
+category: Open Source
+tags:
+  - Open Source
+  - RDP server
+  - Linux
+  - Self-Hosted
+featured: false
+markdown: >-
+  ## Overview
+
+
+  xrdp is an open source Remote Desktop Protocol (RDP) server for Linux and
+  Unix-like systems, enabling remote desktop access from Windows RDP clients and
+  other RDP-compatible clients.
+
+
+  ## Features
+
+
+  - RDP server for Linux/Unix
+
+  - Full desktop session over RDP
+
+  - Compatible with Windows Remote Desktop Connection
+
+  - Support for X11 and Xorg
+
+  - Session management
+
+  - TLS encryption support
+
+  - Audio redirection
+
+  - Clipboard sharing
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://github.com/neutrinolabs/xrdp
+brand: xrdp
+brand_logo_url: https://www.xrdp.org/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

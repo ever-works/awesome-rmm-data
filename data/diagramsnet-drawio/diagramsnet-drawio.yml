@@ -1,0 +1,37 @@
+name: diagrams.net (draw.io)
+description: Online diagrams stored locally in Google Drive, OneDrive, or
+  Dropbox. Free for all features and storage levels.
+source_url: https://app.diagrams.net
+category: PSA (Professional Services Automation)
+tags:
+  - open-source
+  - diagrams
+  - flowchart
+  - free
+markdown: >-
+  ## Overview
+
+
+  diagrams.net (formerly draw.io) is a free, open-source online diagramming
+  tool.
+
+
+  ## Features
+
+
+  - Online diagrams
+
+  - Store locally in Google Drive, OneDrive, Dropbox
+
+  - Free for all features and storage levels
+
+  - Open source
+
+
+  ## Pricing
+
+
+  Completely free and open source.
+brand: diagrams.net
+brand_logo_url: https://app.diagrams.net/images/favicon-32x32.png
+updated_at: 2026-11-23 02:38

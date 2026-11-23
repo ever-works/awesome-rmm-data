@@ -1,0 +1,43 @@
+name: Kaseya 365
+description: Kaseya and Datto suite covering RMM, PSA, backup, security, and
+  documentation, sold as per-endpoint and per-user bundles.
+source_url: https://www.kaseya.com/
+category: RMM Platforms
+tags:
+  - rmm
+  - psa
+  - backup
+  - security
+  - paid
+  - api
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Kaseya 365 is a suite covering RMM, PSA, backup, security, and documentation
+  for MSPs, sold as per-endpoint and per-user bundles.
+
+
+  ## Features
+
+
+  - RMM (Remote Monitoring and Management)
+
+  - PSA (Professional Services Automation)
+
+  - Backup
+
+  - Security
+
+  - IT documentation
+
+  - Per-endpoint and per-user bundles
+
+
+  ## Pricing
+
+
+  Paid - per-endpoint and per-user bundles.
+brand: Kaseya
+updated_at: 2026-11-23 02:38

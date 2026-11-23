@@ -1,0 +1,41 @@
+name: Chrome Remote Desktop
+description: A free remote desktop application by Google that allows users to
+  remotely access another computer through the Chrome browser or a Chromebook.
+  It offers practically no limit on the number of devices and requires a Google
+  account to use. Available as a free tier with no time limit restrictions.
+source_url: https://remotedesktop.google.com
+category: Remote Access
+tags:
+  - Free Plan
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Chrome Remote Desktop is a free remote desktop app developed by Google that
+  enables users to remotely access another computer through the Chrome browser
+  or a Chromebook. It requires a Google account for authentication.
+
+
+  ## Features
+
+
+  - Free remote desktop access with practically no limit on the number of
+  devices
+
+  - Access through Chrome browser or Chromebook
+
+  - Requires Google account
+
+  - No time limit on free usage
+
+
+  ## Pricing
+
+
+  Free.
+brand: Google
+brand_logo_url: https://www.google.com/chrome/static/images/chrome-logo.svg
+images: []
+updated_at: 2026-11-23 02:38

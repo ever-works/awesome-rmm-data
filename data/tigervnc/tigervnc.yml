@@ -1,0 +1,54 @@
+name: TigerVNC
+description: TigerVNC is a high-performance VNC (Virtual Network Computing)
+  implementation for remote desktop access. It is an open source project derived
+  from TightVNC and TurboVNC code, optimized for performance across LAN and WAN
+  connections. The software is cross-platform and supports Windows, Linux, and
+  macOS.
+source_url: https://tigervnc.org/
+category: Open Source
+tags:
+  - Open Source
+  - VNC
+  - Cross-platform
+  - Remote desktop
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TigerVNC is a high-performance, open source VNC implementation for remote
+  desktop access and control across different platforms.
+
+
+  ## Features
+
+
+  - High-performance remote desktop access
+
+  - Cross-platform support (Windows, Linux, macOS)
+
+  - Built-in encryption support
+
+  - File transfer
+
+  - Multiple simultaneous connections
+
+  - Session persistence
+
+  - IPv6 support
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://github.com/TigerVNC/tigervnc
+brand: TigerVNC
+brand_logo_url: https://tigervnc.org/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

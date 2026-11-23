@@ -1,0 +1,30 @@
+name: Acronis
+description: Backup, disaster recovery, and data protection for MSPs.
+source_url: https://www.acronis.com/
+category: Backup for MSPs
+tags:
+  - backup
+  - disaster-recovery
+  - paid
+  - api
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Acronis provides backup, disaster recovery, and data protection for MSPs.
+
+  ## Features
+
+  - Backup
+  - Disaster recovery
+  - Data protection
+  - Cyber protection
+  - Cloud backup
+  - MSP multi-tenant management
+
+  ## Pricing
+
+  Paid.
+brand: Acronis
+updated_at: 2026-11-23 02:38

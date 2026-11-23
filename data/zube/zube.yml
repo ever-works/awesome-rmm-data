@@ -1,0 +1,25 @@
+name: Zube
+description: Project management with free plan for 4 projects and 4 users.
+  GitHub integration is available.
+source_url: https://zube.io
+category: PSA (Professional Services Automation)
+tags:
+  - project-management
+  - github-integration
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  Zube is a project management tool with GitHub integration.
+
+  ## Features
+
+  - Project management
+  - Free plan for 4 projects and 4 users
+  - GitHub integration
+
+  ## Pricing
+
+  Free plan for 4 projects and 4 users. Paid plans available.
+brand: Zube
+updated_at: 2026-11-23 02:38

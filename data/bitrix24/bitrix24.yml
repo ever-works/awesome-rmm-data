@@ -1,0 +1,27 @@
+name: Bitrix24
+description: Intranet and project management tool. The free plan has 5GB for
+  unlimited users.
+source_url: https://www.bitrix24.com
+category: PSA (Professional Services Automation)
+tags:
+  - intranet
+  - project-management
+  - crm
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  Bitrix24 is an intranet and project management platform with CRM capabilities.
+
+  ## Features
+
+  - Intranet and project management
+  - CRM capabilities
+  - Free plan: 5GB storage, unlimited users
+
+  ## Pricing
+
+  Free plan includes 5GB storage for unlimited users. Paid plans available.
+brand: Bitrix24
+brand_logo_url: https://www.bitrix24.com/images/logo.svg
+updated_at: 2026-11-23 02:38

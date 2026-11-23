@@ -1,0 +1,45 @@
+name: Zoho Assist
+description: A remote support and remote access solution by Zoho that offers a
+  forever free plan including one concurrent remote support license and access
+  to 5 unattended computer licenses for unlimited duration. Available for both
+  professional and personal use, it integrates with Zoho Desk for remote
+  technician support.
+source_url: https://www.zoho.com/assist
+category: Remote Access
+tags:
+  - Free Plan
+  - Remote Support
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Zoho Assist is a cloud-based remote support and remote access software by Zoho
+  Corporation. It allows technicians to provide remote support to customers and
+  access unattended computers.
+
+
+  ## Features
+
+
+  - Forever free plan with one concurrent remote support license
+
+  - Access to 5 unattended computer licenses for unlimited duration
+
+  - Suitable for both professional and personal use
+
+  - Integrates with Zoho Desk for one remote technician and 5 unattended
+  computers
+
+  - Remote support and remote access capabilities
+
+
+  ## Pricing
+
+
+  Free tier available (forever free plan). Paid plans offer additional features
+  and licenses.
+brand: Zoho
+brand_logo_url: https://www.zoho.com/assets/img/zoho_logo.svg
+images: []
+updated_at: 2026-11-23 02:38

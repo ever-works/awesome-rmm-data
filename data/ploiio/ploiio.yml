@@ -1,0 +1,42 @@
+name: ploi.io
+description: Server management tool to easily manage and deploy your servers &
+  sites. Free tier includes management of one server.
+source_url: https://ploi.io
+category: RMM Platforms
+tags:
+  - server-management
+  - deployment
+  - free-tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ploi.io is a server management tool that helps users easily manage and deploy
+  their servers and sites.
+
+
+  ## Features
+
+
+  - Server management and deployment
+
+  - Site deployment
+
+  - Server monitoring
+
+
+  ## Pricing
+
+
+  Free for one server. Paid plans available for additional servers and features.
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS platform.
+brand: ploi.io
+brand_logo_url: https://ploi.io/logo.svg
+images: []
+updated_at: 2026-11-23 02:38

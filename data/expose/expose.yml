@@ -1,0 +1,38 @@
+name: Expose
+description: Expose local sites via secure tunnels. The free plan includes an EU
+  server, random subdomains, and single-user access.
+source_url: https://expose.dev
+category: Remote Access
+tags:
+  - tunneling
+  - localhost
+  - secure-tunnel
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  Expose is a service for exposing local sites via secure tunnels, with a free
+  tier that includes an EU server location.
+
+
+  ## Features
+
+
+  - Secure tunnels for local sites
+
+  - Free plan includes EU server
+
+  - Random subdomains
+
+  - Single-user access
+
+
+  ## Pricing
+
+
+  Free plan available with EU server, random subdomains, and single user. Paid
+  plans for additional features.
+brand: BeyondCode
+brand_logo_url: https://expose.dev/logo.svg
+updated_at: 2026-11-23 02:38

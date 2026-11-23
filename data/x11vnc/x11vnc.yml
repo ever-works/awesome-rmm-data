@@ -1,0 +1,54 @@
+name: x11vnc
+description: x11vnc is an open source VNC server for X11 that allows remote
+  users to view and interact with an existing X11 desktop session. Unlike other
+  VNC servers that create new virtual sessions, x11vnc shares the current real X
+  display. It is designed for Linux and Unix-like systems.
+source_url: https://github.com/LibVNC/x11vnc
+category: Open Source
+tags:
+  - Open Source
+  - VNC
+  - X11
+  - Self-Hosted
+featured: false
+markdown: >-
+  ## Overview
+
+
+  x11vnc is an open source VNC server that exports an existing X11 desktop
+  session for remote access, allowing users to view and control their current
+  desktop from another computer.
+
+
+  ## Features
+
+
+  - Shares existing X11 desktop (not a virtual session)
+
+  - Remote desktop viewing and control
+
+  - File transfer
+
+  - HTTP access via embedded Java viewer
+
+  - SSL/TLS encryption support
+
+  - Multiple concurrent connections
+
+  - Remote cursor display
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://github.com/LibVNC/x11vnc
+brand: x11vnc
+brand_logo_url: https://github.com/LibVNC/x11vnc/raw/main/logo.png
+images: []
+updated_at: 2026-11-23 02:38

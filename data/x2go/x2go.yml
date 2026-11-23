@@ -1,0 +1,57 @@
+name: X2Go
+description: X2Go is an open source remote desktop solution for Linux that uses
+  NX technology to provide fast and secure access to remote desktops. It allows
+  users to access graphical desktops and applications over low-bandwidth
+  connections, with support for session suspension and resumption. The software
+  includes both server and client components.
+source_url: https://www.x2go.org/
+category: Open Source
+tags:
+  - Open Source
+  - Linux
+  - NX technology
+  - Remote desktop
+featured: false
+markdown: >-
+  ## Overview
+
+
+  X2Go is an open source remote desktop solution for Linux systems, based on NX
+  technology, that provides fast and secure access to remote graphical desktops
+  and applications.
+
+
+  ## Features
+
+
+  - Remote desktop access for Linux
+
+  - Session suspension and resumption
+
+  - Low-bandwidth optimization
+
+  - SSH tunneling for security
+
+  - File transfer
+
+  - Audio support
+
+  - Printing support
+
+  - Client support for Windows, macOS, Linux
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://github.com/X2Go
+brand: X2Go
+brand_logo_url: https://www.x2go.org/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

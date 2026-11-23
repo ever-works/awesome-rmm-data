@@ -1,0 +1,54 @@
+name: OpenUEM
+description: Open source RMM for workstation management covering inventory,
+  software and OS deployment, patch management, remote control, and compliance
+  for Windows, Linux, and macOS. Self-hosted or available as SaaS hosted in
+  France. Includes a web user interface for managing endpoints and agents, plus
+  an agent for Windows, Linux, and macOS.
+source_url: https://github.com/topics/rmm
+category: RMM Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenUEM is an open-source remote monitoring and management platform for
+  workstations. It provides inventory, software and OS deployment, patch
+  management, remote control, and compliance capabilities for Windows, Linux,
+  and macOS endpoints.
+
+
+  ## Deployment
+
+
+  Self-hosted or SaaS hosted in France.
+
+
+  ## Key Features
+
+
+  - Inventory management
+
+  - Software deployment
+
+  - OS deployment
+
+  - Patch management
+
+  - Remote control
+
+  - Compliance management
+
+  - Web user interface for managing endpoints and agents
+
+  - Agent support for Windows, Linux, and macOS
+
+
+  ## Pricing
+
+
+  Open source.
+brand: OpenUEM
+updated_at: 2026-11-23 02:38

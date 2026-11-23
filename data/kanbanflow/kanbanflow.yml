@@ -1,0 +1,26 @@
+name: KanbanFlow
+description: Board-based project management tool. Free version available,
+  premium version with more options.
+source_url: https://kanbanflow.com
+category: PSA (Professional Services Automation)
+tags:
+  - kanban
+  - board-based
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  KanbanFlow is a board-based project management tool using Kanban methodology.
+
+  ## Features
+
+  - Board-based project management
+  - Kanban methodology
+  - Free version available
+  - Premium version with more options
+
+  ## Pricing
+
+  Free version available. Paid premium version with additional features.
+brand: KanbanFlow
+updated_at: 2026-11-23 02:38

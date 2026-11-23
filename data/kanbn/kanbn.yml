@@ -1,0 +1,27 @@
+name: kan.bn
+description: A powerful, flexible kanban app that helps you organise work, track
+  progress, and deliver results. Free plan up to 1 user for unlimited boards,
+  lists, and cards.
+source_url: https://kan.bn
+category: PSA (Professional Services Automation)
+tags:
+  - kanban
+  - task-management
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  kan.bn is a Kanban app for organizing work and tracking progress.
+
+  ## Features
+
+  - Kanban board
+  - Work organization
+  - Progress tracking
+  - Free plan: 1 user, unlimited boards/lists/cards
+
+  ## Pricing
+
+  Free for up to 1 user with unlimited boards, lists, and cards.
+brand: kan.bn
+updated_at: 2026-11-23 02:38

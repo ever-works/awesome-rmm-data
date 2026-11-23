@@ -1,0 +1,41 @@
+name: TimeZest
+description: Appointment scheduling for MSP technicians, integrated with the PSA.
+source_url: https://www.timezest.com/
+category: PSA (Professional Services Automation)
+tags:
+  - scheduling
+  - appointment
+  - psa-integration
+  - paid
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TimeZest is appointment scheduling software for MSP technicians, integrated
+  with the PSA.
+
+
+  ## Features
+
+
+  - Appointment scheduling
+
+  - PSA integration
+
+  - Technician scheduling
+
+  - Client self-scheduling
+
+  - Calendar sync
+
+  - Automated reminders
+
+
+  ## Pricing
+
+
+  Paid.
+brand: TimeZest
+updated_at: 2026-11-23 02:38

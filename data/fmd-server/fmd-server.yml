@@ -1,0 +1,48 @@
+name: FMD Server
+description: Server to communicate with the FMD (Find My Device) Android app, to
+  locate and control your devices. Open-source project written in Go, released
+  under the GPL-3.0 license, with Docker support.
+source_url: https://github.com/fmd-server/fmd
+category: Remote Access
+tags:
+  - open-source
+  - self-hosted
+  - iot
+  - android
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FMD Server is a server component that communicates with the FMD (Find My
+  Device) Android app to locate and control devices remotely.
+
+
+  ## Features
+
+
+  - Communication with FMD Android app
+
+  - Device location tracking
+
+  - Remote device control
+
+  - Written in Go
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker.
+brand: FMD Server
+brand_logo_url: https://github.com/fmd-server/fmd/raw/main/logo.png
+images: []
+updated_at: 2026-11-23 02:38

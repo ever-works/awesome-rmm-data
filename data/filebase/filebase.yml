@@ -1,0 +1,53 @@
+name: Filebase
+description: Filebase is an S3-compatible object storage service powered by
+  blockchain technology, offering geo-redundant storage across IPFS, Filecoin,
+  and Storj networks. It provides 5 GB of free storage for an unlimited
+  duration, suitable for backup and archival use cases. Data is stored with
+  built-in redundancy and can be accessed via standard S3 APIs.
+source_url: https://filebase.com/
+category: Backup for MSPs
+tags:
+  - Free Plan
+  - Cloud
+  - Object Storage
+  - S3-Compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Filebase is S3-compatible object storage powered by blockchain, providing
+  geo-redundant storage across decentralized networks including IPFS, Filecoin,
+  and Storj.
+
+
+  ## Features
+
+
+  - S3-compatible API for integration with backup and storage tools
+
+  - Geo-redundant storage across IPFS, Filecoin, and Storj
+
+  - 5 GB free storage for unlimited duration
+
+  - Built-in redundancy and high availability
+
+  - Suitable for backup, archival, and content distribution
+
+
+  ## Pricing Model
+
+
+  Free tier includes 5 GB of storage with unlimited duration. Additional storage
+  and bandwidth are available on paid plans.
+
+
+  ## Deployment
+
+
+  Cloud-hosted service.
+brand: Filebase
+brand_logo_url: https://filebase.com/logo.svg
+images:
+  - https://filebase.com/images/logo.png
+updated_at: 2026-11-23 02:38

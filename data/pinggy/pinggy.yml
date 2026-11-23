@@ -1,0 +1,38 @@
+name: Pinggy
+description: Public URLs for localhost with a single command, no downloads
+  required. Supports HTTPS / TCP / TLS tunnels. The free plan has a 60-minute
+  tunnel lifetime.
+source_url: https://pinggy.io
+category: Remote Access
+tags:
+  - tunneling
+  - localhost
+  - no-download
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  Pinggy provides public URLs for localhost with a single command, requiring no
+  downloads. Supports HTTPS, TCP, and TLS tunnels.
+
+
+  ## Features
+
+
+  - Public URLs for localhost via single command
+
+  - No downloads required
+
+  - HTTPS / TCP / TLS tunnels
+
+  - Free plan: 60-minute tunnel lifetime
+
+
+  ## Pricing
+
+
+  Free plan available with 60-minute tunnel lifetime. Paid plans for extended
+  features.
+brand: Pinggy
+updated_at: 2026-11-23 02:38

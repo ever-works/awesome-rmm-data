@@ -1,0 +1,43 @@
+name: XCloud
+description: Server management and deployment platform with a user-friendly
+  interface. Free tier available for one server.
+source_url: https://xcloud.host
+category: RMM Platforms
+tags:
+  - server-management
+  - deployment
+  - free-tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  XCloud is a server management and deployment platform with a user-friendly
+  interface for managing servers and sites.
+
+
+  ## Features
+
+
+  - Server management
+
+  - Site deployment
+
+  - User-friendly control panel
+
+
+  ## Pricing
+
+
+  Free tier available for one server. Paid plans available for additional
+  servers and features.
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS platform.
+brand: XCloud
+brand_logo_url: https://xcloud.host/logo.svg
+images: []
+updated_at: 2026-11-23 02:38

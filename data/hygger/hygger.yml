@@ -1,0 +1,35 @@
+name: Hygger
+description: Project management platform. The free plan offers unlimited users,
+  projects & boards with 100 MB of storage.
+source_url: https://hygger.io
+category: PSA (Professional Services Automation)
+tags:
+  - project-management
+  - kanban
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  Hygger is a project management platform with Kanban boards and prioritization
+  features.
+
+
+  ## Features
+
+
+  - Project management
+
+  - Kanban boards
+
+  - Free plan: unlimited users, projects & boards, 100 MB storage
+
+
+  ## Pricing
+
+
+  Free plan available with unlimited users/projects/boards and 100 MB storage.
+  Paid plans for more storage and features.
+brand: Hygger
+brand_logo_url: https://hygger.io/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

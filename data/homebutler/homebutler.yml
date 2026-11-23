@@ -1,0 +1,54 @@
+name: HomeButler
+description: Installs and manages a curated catalog of applications via Docker
+  Compose, maps containers and exposed ports, verifies backups restore, and
+  reports what changed since the last run with CLI, JSON, web and MCP
+  interfaces. Open-source project written in Go, released under the MIT license.
+source_url: https://github.com/homebutler/homebutler
+category: Remote Access
+tags:
+  - open-source
+  - self-hosted
+  - docker
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HomeButler installs and manages a curated catalog of applications via Docker
+  Compose, maps containers and exposed ports, verifies backup restores, and
+  reports changes since the last run.
+
+
+  ## Features
+
+
+  - Docker Compose application management
+
+  - Container and port mapping
+
+  - Backup restore verification
+
+  - Change reporting
+
+  - CLI, JSON, web, and MCP interfaces
+
+  - Written in Go
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker.
+brand: HomeButler
+brand_logo_url: https://github.com/homebutler/homebutler/raw/main/logo.png
+images: []
+updated_at: 2026-11-23 02:38

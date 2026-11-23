@@ -1,0 +1,43 @@
+name: ConnectBooster
+description: Invoicing, autopay, and payment portal synced to the PSA and
+  accounting system, from Kaseya.
+source_url: https://www.kaseya.com/products/msp-billing-software/
+category: PSA (Professional Services Automation)
+tags:
+  - payments
+  - billing
+  - invoicing
+  - autopay
+  - paid
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ConnectBooster is invoicing, autopay, and payment portal synced to the PSA and
+  accounting system, from Kaseya.
+
+
+  ## Features
+
+
+  - Invoicing
+
+  - Autopay
+
+  - Payment portal
+
+  - PSA synchronization
+
+  - Accounting system synchronization
+
+  - Payment processing
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Kaseya
+updated_at: 2026-11-23 02:38

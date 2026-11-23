@@ -1,0 +1,42 @@
+name: Toggl
+description: "Provides two free productivity tools: Toggl Track for time
+  management and tracking, and Toggl Plan for task planning. Toggl Track has
+  unlimited tracking records, projects, clients, tags, and reporting. Toggl Plan
+  has a free plan for solo developers with unlimited tasks, milestones, and
+  timelines."
+source_url: https://toggl.com
+category: PSA (Professional Services Automation)
+tags:
+  - time-tracking
+  - productivity
+  - task-planning
+  - Free Plan
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Toggl provides productivity tools including Toggl Track (time tracking) and
+  Toggl Plan (task planning), both with free plans.
+
+
+  ## Features
+
+
+  - Toggl Track: time management and tracking app
+
+  - Unlimited tracking records, projects, clients, tags, reporting
+
+  - Toggl Plan: task planning for solo developers
+
+  - Unlimited tasks, milestones, and timelines on free plan
+
+
+  ## Pricing
+
+
+  Free plans available for both Toggl Track and Toggl Plan. Paid plans for team
+  features.
+brand: Toggl
+brand_logo_url: https://toggl.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

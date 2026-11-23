@@ -1,0 +1,48 @@
+name: PromoProxy
+description: PromoProxy is a free cloud Secure Web Gateway service designed for
+  content filtering and web security. The free plan supports up to 5 users and 1
+  GB of data per day, making it suitable for small MSP deployments. It provides
+  secure web filtering and threat protection capabilities.
+source_url: https://promoproxy.com/
+category: Security for MSPs
+tags:
+  - Free Plan
+  - Cloud
+  - Web Security
+  - Secure Web Gateway
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PromoProxy is a free cloud Secure Web Gateway that provides content filtering
+  and web security protection for users and devices.
+
+
+  ## Features
+
+
+  - Cloud-based Secure Web Gateway
+
+  - Content filtering and web security
+
+  - Free plan supports up to 5 users
+
+  - 1 GB of data per day on free tier
+
+  - Suitable for small business and MSP deployments
+
+
+  ## Pricing Model
+
+
+  Free tier includes up to 5 users and 1 GB per day. Paid plans available for
+  larger deployments.
+
+
+  ## Deployment
+
+
+  Cloud-hosted service.
+brand: PromoProxy
+updated_at: 2026-11-23 02:38

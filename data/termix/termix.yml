@@ -1,0 +1,51 @@
+name: Termix
+description: Clientless web-based server management platform with SSH terminal,
+  tunneling, and file editing capabilities. Open-source project released under
+  the Apache-2.0 license, with Docker support.
+source_url: https://github.com/termix/termix
+category: Remote Access
+tags:
+  - open-source
+  - self-hosted
+  - ssh
+  - web-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Termix is a clientless web-based server management platform that provides SSH
+  terminal access, tunneling, and file editing capabilities through a web
+  browser.
+
+
+  ## Features
+
+
+  - Clientless web-based server management
+
+  - SSH terminal
+
+  - Tunneling
+
+  - File editing capabilities
+
+  - Browser-based access
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache-2.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker.
+brand: Termix
+brand_logo_url: https://github.com/termix/termix/raw/main/logo.png
+images: []
+updated_at: 2026-11-23 02:38

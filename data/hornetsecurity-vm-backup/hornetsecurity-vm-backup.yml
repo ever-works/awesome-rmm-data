@@ -1,0 +1,41 @@
+name: Hornetsecurity VM Backup
+description: Backup and replication for Hyper-V and VMware, formerly Altaro VM Backup.
+source_url: https://www.hornetsecurity.com/en/services/vm-backup/
+category: Backup for MSPs
+tags:
+  - backup
+  - vm-backup
+  - hyper-v
+  - vmware
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hornetsecurity VM Backup is backup and replication for Hyper-V and VMware,
+  formerly Altaro VM Backup.
+
+
+  ## Features
+
+
+  - VM backup
+
+  - Hyper-V backup
+
+  - VMware backup
+
+  - Replication
+
+  - Offsite backup
+
+  - Instant recovery
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Hornetsecurity
+updated_at: 2026-11-23 02:38

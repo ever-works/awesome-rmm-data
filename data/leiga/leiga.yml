@@ -1,0 +1,42 @@
+name: Leiga
+description: SaaS product that uses AI to automatically manage projects, helping
+  teams stay focused. Free for up to 10 users, 20 custom fields, 2GB storage,
+  video recording with AI limited to 5 mins/video, automation runs at
+  20/user/month.
+source_url: https://leiga.com
+category: PSA (Professional Services Automation)
+tags:
+  - AI-powered
+  - project-management
+  - automation
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  Leiga is an AI-powered SaaS project management tool that automates project
+  management.
+
+
+  ## Features
+
+
+  - AI-powered project management
+
+  - Free for up to 10 users
+
+  - 20 custom fields, 2GB storage
+
+  - Video recording with AI (5 mins/video limit)
+
+  - Automation runs (20/user/month)
+
+
+  ## Pricing
+
+
+  Free plan available with limits on users, storage, and AI features. Paid plans
+  for larger teams.
+brand: Leiga
+brand_logo_url: https://leiga.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

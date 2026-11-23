@@ -1,0 +1,57 @@
+name: xpra
+description: xpra is an open source tool that allows users to run X applications
+  on a remote host and display them on a local machine, similar to GNU Screen
+  for X11. It supports persistent sessions that survive disconnections,
+  application forwarding, and seamless window integration. The software is
+  designed for Linux and Unix-like systems.
+source_url: https://xpra.org/
+category: Open Source
+tags:
+  - Open Source
+  - X11
+  - Persistent sessions
+  - Application forwarding
+featured: false
+markdown: >-
+  ## Overview
+
+
+  xpra is an open source remote display server and client for X11 applications,
+  allowing individual applications or full desktops to be forwarded from a
+  remote host to a local display.
+
+
+  ## Features
+
+
+  - Remote X11 application forwarding
+
+  - Persistent sessions that survive disconnection
+
+  - Seamless window mode
+
+  - Session resumption after network loss
+
+  - HTML5 client support
+
+  - SSH tunneling support
+
+  - PulseAudio audio forwarding
+
+  - IPv6 support
+
+
+  ## Pricing
+
+
+  Free and open source software.
+
+
+  ## Repository
+
+
+  https://github.com/Xpra/xpra
+brand: xpra
+brand_logo_url: https://xpra.org/images/logo.png
+images: []
+updated_at: 2026-11-23 02:38

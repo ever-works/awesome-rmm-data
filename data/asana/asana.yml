@@ -1,0 +1,39 @@
+name: Asana
+description: Project management tool that is free for private projects with collaborators.
+source_url: https://asana.com
+category: PSA (Professional Services Automation)
+tags:
+  - project-management
+  - task-management
+  - Free Plan
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Asana is a project management tool that helps teams organize, track, and
+  manage their work.
+
+
+  ## Features
+
+
+  - Project management
+
+  - Task management
+
+  - Free for private projects with collaborators
+
+  - Team collaboration
+
+
+  ## Pricing
+
+
+  Free for private projects with collaborators. Paid plans available for premium
+  features.
+brand: Asana
+brand_logo_url: https://assets.asana.com/bundles/website/images/favicon-32x32.png
+images:
+  - https://assets.asana.com/bundles/website/images/og-image.png
+updated_at: 2026-11-23 02:38

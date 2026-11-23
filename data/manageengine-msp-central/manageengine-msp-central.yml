@@ -1,0 +1,57 @@
+name: ManageEngine MSP Central
+description: ManageEngine MSP Central is an integrated IT management platform
+  for managed service providers combining endpoint management, network
+  monitoring, and service desk capabilities. It provides issue tracking,
+  performance analytics, accounting, and asset management features with
+  multi-tenancy support. Pricing starts at $34 per technician per month with a
+  free trial available.
+source_url: https://www.manageengine.com/msp-central/
+category: RMM Platforms
+tags:
+  - psa
+  - multi-tenancy
+  - issue-tracking
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ManageEngine MSP Central is an integrated IT management platform for managed
+  service providers, combining endpoint management, network monitoring, and
+  service desk capabilities in a single console.
+
+
+  ## Key Features
+
+
+  - Issue Tracking
+
+  - Performance Analytics
+
+  - Accounting
+
+  - Asset Management
+
+  - Multi Tenancy
+
+  - Remote Access
+
+  - Billing
+
+
+  ## Pricing
+
+
+  Starts at $34 per technician per month. Free trial available.
+
+
+  ## Deployment
+
+
+  Cloud-based
+brand: ManageEngine
+brand_logo_url: https://www.manageengine.com/images/logo.svg
+images:
+  - https://www.manageengine.com/msp-central/images/msp-central.png
+updated_at: 2026-11-23 02:38

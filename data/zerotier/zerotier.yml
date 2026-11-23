@@ -1,0 +1,47 @@
+name: ZeroTier
+description: FOSS managed virtual Ethernet as a service. Provides unlimited
+  end-to-end encrypted networks with up to 25 clients on the free plan. Includes
+  clients for desktop, mobile, and NAS, plus a web interface for configuring
+  custom routing rules and approving new client nodes.
+source_url: https://zerotier.com
+category: Remote Access
+tags:
+  - open-source
+  - VPN
+  - virtual-ethernet
+  - Free Plan
+featured: true
+markdown: >-
+  ## Overview
+
+
+  ZeroTier is a free and open-source managed virtual Ethernet service that
+  creates end-to-end encrypted networks between devices.
+
+
+  ## Features
+
+
+  - FOSS managed virtual Ethernet as a service
+
+  - Unlimited end-to-end encrypted networks
+
+  - Free plan: up to 25 clients
+
+  - Clients for desktop, mobile, and NAS
+
+  - Web interface for custom routing rules
+
+  - Client node approval on private networks
+
+
+  ## Pricing
+
+
+  Free plan includes unlimited networks with up to 25 clients. Paid plans
+  available for larger deployments.
+brand: ZeroTier
+brand_logo_url: https://zerotier.com/logo.svg
+images:
+  - https://zerotier.com/images/zerotier-logo.png
+updated_at: 2026-11-23 02:38

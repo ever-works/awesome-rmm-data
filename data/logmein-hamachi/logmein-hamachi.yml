@@ -1,0 +1,38 @@
+name: LogMeIn Hamachi
+description: Hosted VPN service that lets you securely extend LAN-like networks
+  to distributed teams. Free plan allows unlimited networks with up to 5 people
+  per network.
+source_url: https://vpn.net
+category: Remote Access
+tags:
+  - VPN
+  - LAN
+  - Free Plan
+markdown: >-
+  ## Overview
+
+
+  LogMeIn Hamachi is a hosted VPN service that enables secure extension of
+  LAN-like networks to distributed teams.
+
+
+  ## Features
+
+
+  - Hosted VPN service
+
+  - Securely extend LAN-like networks
+
+  - Free plan: unlimited networks with up to 5 people
+
+  - Distributed team support
+
+
+  ## Pricing
+
+
+  Free plan available with unlimited networks (up to 5 people per network). Paid
+  plans available for larger teams.
+brand: LogMeIn
+brand_logo_url: https://www.logmein.com/content/dam/logmein/brand/logos/logmein-logo.svg
+updated_at: 2026-11-23 02:38

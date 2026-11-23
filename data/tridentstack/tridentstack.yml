@@ -1,0 +1,47 @@
+name: TridentStack
+description: TridentStack is a patch, vulnerability, and compliance management
+  platform for Windows, macOS, and Linux endpoints. It helps IT teams keep
+  endpoints patched and compliant. The service is free forever for up to 200
+  endpoints with every feature included and no credit card required.
+source_url: https://tridentstack.com
+category: RMM Platforms
+tags:
+  - Free Plan
+  - Patch Management
+  - Endpoint Security
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TridentStack is an endpoint management platform focused on patch,
+  vulnerability, and compliance management across Windows, macOS, and Linux.
+
+
+  ## Key Features
+
+
+  - Patch management for Windows, macOS, and Linux endpoints
+
+  - Vulnerability management
+
+  - Compliance management
+
+  - Endpoint visibility and reporting
+
+
+  ## Pricing
+
+
+  Free forever for up to 200 endpoints, with every feature included and no
+  credit card required.
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS platform.
+brand: TridentStack
+brand_logo_url: https://tridentstack.com/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

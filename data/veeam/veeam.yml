@@ -1,0 +1,43 @@
+name: Veeam
+description: Backup and replication with instant VM recovery and Microsoft 365 backup.
+source_url: https://www.veeam.com/
+category: Backup for MSPs
+tags:
+  - backup
+  - replication
+  - vm-recovery
+  - microsoft-365
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Veeam is backup and replication with instant VM recovery and Microsoft 365
+  backup.
+
+
+  ## Features
+
+
+  - Backup
+
+  - Replication
+
+  - Instant VM recovery
+
+  - Microsoft 365 backup
+
+  - Cloud backup
+
+  - Ransomware protection
+
+  - Instant recovery
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Veeam
+updated_at: 2026-11-23 02:38

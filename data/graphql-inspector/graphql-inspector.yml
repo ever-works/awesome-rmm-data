@@ -1,0 +1,27 @@
+name: GraphQL Inspector
+description: GraphQL Inspector outputs a list of changes between two GraphQL
+  schemas. Every difference is precisely explained and marked as breaking,
+  non-breaking, or dangerous.
+source_url: https://graphql-inspector.com
+category: PSA (Professional Services Automation)
+tags:
+  - graphql
+  - api
+  - schema
+  - free
+markdown: |-
+  ## Overview
+
+  GraphQL Inspector compares two GraphQL schemas and outputs a list of changes.
+
+  ## Features
+
+  - GraphQL schema comparison
+  - Change detection between schemas
+  - Differences marked as breaking, non-breaking, or dangerous
+
+  ## Pricing
+
+  Free.
+brand: GraphQL Inspector
+updated_at: 2026-11-23 02:38

@@ -1,0 +1,30 @@
+name: Cisco Umbrella
+description: Cloud-delivered DNS-layer security and web filtering.
+source_url: https://umbrella.cisco.com/products/recursive-dns-services
+category: Security for MSPs
+tags:
+  - dns-filtering
+  - web-security
+  - cloud
+  - paid
+  - api
+featured: false
+markdown: |-
+  ## Overview
+
+  Cisco Umbrella is cloud-delivered DNS-layer security and web filtering.
+
+  ## Features
+
+  - DNS-layer security
+  - Web filtering
+  - Cloud-delivered
+  - Threat intelligence
+  - Recursive DNS services
+  - Content filtering
+
+  ## Pricing
+
+  Paid.
+brand: Cisco
+updated_at: 2026-11-23 02:38

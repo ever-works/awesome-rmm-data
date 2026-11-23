@@ -1,0 +1,30 @@
+name: StarDesk
+description: "StarDesk is a free remote desktop tool for work and gaming that
+  supports 4K HDR/144fps streaming across Windows, macOS, iOS, and Android. It
+  offers low-latency remote access capabilities. Pricing model: free."
+source_url: https://stardesk.app/
+category: Remote Access
+tags:
+  - Free Plan
+  - 4K streaming
+  - cross-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  StarDesk is a remote desktop application for work and gaming use cases.
+
+  ## Features
+
+  - Free remote desktop access
+  - 4K HDR / 144fps streaming
+  - Cross-platform support: Windows, macOS, iOS, and Android
+  - Low-latency remote access
+
+  ## Pricing
+
+  Free.
+brand: StarDesk
+brand_logo_url: https://stardesk.app/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

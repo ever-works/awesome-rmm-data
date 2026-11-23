@@ -1,0 +1,39 @@
+name: VPS Snaps
+description: "VPS Snaps is an automated server backups and snapshots service
+  across 8 cloud providers, storing backups in your own bucket or Google Drive.
+  Free plan: 1 server, daily backups, no credit card. Pricing model: freemium
+  with a free plan and paid tiers."
+source_url: https://vpsnaps.com/
+category: Backup for MSPs
+tags:
+  - Free Plan
+  - server backup
+  - snapshots
+featured: false
+markdown: >-
+  ## Overview
+
+
+  VPS Snaps is an automated server backup and snapshots service spanning
+  multiple cloud providers.
+
+
+  ## Features
+
+
+  - Automated server backups and snapshots across 8 cloud providers
+
+  - Stores backups in your own bucket or Google Drive
+
+  - Free plan: 1 server, daily backups, no credit card required
+
+
+  ## Pricing
+
+
+  Freemium: a free plan covering 1 server with daily backups (no credit card),
+  with paid tiers for additional servers and features.
+brand: VPS Snaps
+brand_logo_url: https://vpsnaps.com/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

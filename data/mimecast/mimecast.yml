@@ -1,0 +1,29 @@
+name: Mimecast
+description: Email security, archiving, and continuity.
+source_url: https://www.mimecast.com/
+category: Security for MSPs
+tags:
+  - email-security
+  - archiving
+  - continuity
+  - paid
+featured: false
+markdown: |-
+  ## Overview
+
+  Mimecast is email security, archiving, and continuity.
+
+  ## Features
+
+  - Email security
+  - Email archiving
+  - Email continuity
+  - Phishing protection
+  - Data leak prevention
+  - Email backup
+
+  ## Pricing
+
+  Paid.
+brand: Mimecast
+updated_at: 2026-11-23 02:38

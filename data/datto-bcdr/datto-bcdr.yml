@@ -1,0 +1,42 @@
+name: Datto BCDR
+description: Appliance-based business continuity with ransomware detection and
+  verified restores (SIRIS), now part of Kaseya.
+source_url: https://www.datto.com/products/siris/
+category: Backup for MSPs
+tags:
+  - backup
+  - bcdr
+  - appliance
+  - ransomware-detection
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Datto BCDR is appliance-based business continuity with ransomware detection
+  and verified restores (SIRIS), now part of Kaseya.
+
+
+  ## Features
+
+
+  - Appliance-based backup
+
+  - Business continuity
+
+  - Ransomware detection
+
+  - Verified restores
+
+  - SIRIS appliances
+
+  - Instant virtualization
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Datto
+updated_at: 2026-11-23 02:38

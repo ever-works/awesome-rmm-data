@@ -1,0 +1,42 @@
+name: SnapShooter
+description: "SnapShooter is a backup solution for DigitalOcean, AWS, Lightsail,
+  Hetzner, and Exoscale, with support for direct database, file system, and
+  application backups to S3-based storage. It provides a free plan with daily
+  backups for one resource. Pricing model: freemium with a free plan and paid
+  tiers."
+source_url: https://snapshooter.com/
+category: Backup for MSPs
+tags:
+  - Free Plan
+  - cloud backup
+  - S3
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SnapShooter is a backup solution supporting multiple cloud providers and
+  S3-based storage destinations.
+
+
+  ## Features
+
+
+  - Backup support for DigitalOcean, AWS, Lightsail, Hetzner, and Exoscale
+
+  - Direct database, file system, and application backups
+
+  - Backups stored to S3-based storage
+
+  - Free plan includes daily backups for one resource
+
+
+  ## Pricing
+
+
+  Freemium: a free plan with daily backups for one resource, with paid tiers for
+  additional resources and features.
+brand: SnapShooter
+brand_logo_url: https://snapshooter.com/favicon.ico
+images: []
+updated_at: 2026-11-23 02:38

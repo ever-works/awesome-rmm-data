@@ -1,0 +1,30 @@
+name: DNSFilter
+description: DNS threat protection and content filtering.
+source_url: https://www.dnsfilter.com/
+category: Security for MSPs
+tags:
+  - dns-filtering
+  - web-security
+  - content-filtering
+  - paid
+  - api
+featured: false
+markdown: |-
+  ## Overview
+
+  DNSFilter is DNS threat protection and content filtering.
+
+  ## Features
+
+  - DNS threat protection
+  - Content filtering
+  - Malware blocking
+  - Phishing protection
+  - Content categories
+  - Real-time threat intelligence
+
+  ## Pricing
+
+  Paid.
+brand: DNSFilter
+updated_at: 2026-11-23 02:38

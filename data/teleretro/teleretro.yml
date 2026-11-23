@@ -1,0 +1,26 @@
+name: teleretro
+description: Simple and fun retrospective tool with icebreakers, gifs and
+  emojis. The free plan includes three retros and unlimited members.
+source_url: https://teleretro.com
+category: PSA (Professional Services Automation)
+tags:
+  - retrospective
+  - agile
+  - Free Plan
+markdown: |-
+  ## Overview
+
+  teleretro is a simple and fun retrospective tool for agile teams.
+
+  ## Features
+
+  - Retrospective tool
+  - Icebreakers, gifs, emojis
+  - Free plan: 3 retros, unlimited members
+
+  ## Pricing
+
+  Free plan available with 3 retros and unlimited members. Paid plans for more.
+brand: teleretro
+brand_logo_url: https://teleretro.com/assets/images/logo.svg
+updated_at: 2026-11-23 02:38

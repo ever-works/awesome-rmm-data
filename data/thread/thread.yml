@@ -1,0 +1,41 @@
+name: Thread
+description: Service desk that meets clients in Slack, Teams, mobile, or desktop chat.
+source_url: https://www.getthread.com/
+category: PSA (Professional Services Automation)
+tags:
+  - helpdesk
+  - chat-integration
+  - slack
+  - teams
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Thread is a service desk that meets clients in Slack, Teams, mobile, or
+  desktop chat.
+
+
+  ## Features
+
+
+  - Service desk
+
+  - Slack integration
+
+  - Microsoft Teams integration
+
+  - Mobile support
+
+  - Desktop chat
+
+  - Ticket management
+
+
+  ## Pricing
+
+
+  Paid.
+brand: Thread
+updated_at: 2026-11-23 02:38
